@@ -26,6 +26,7 @@ public class crackmain implements IXposedHookLoadPackage{
         Log.d("Begin","Test Xposed--->"+lpparam.packageName);
         if (lpparam.packageName.contains("com.tencent.mm")){
             Log.d("Begin","Xposed Hooked--->"+lpparam.packageName);
+
         }
     }
 }
