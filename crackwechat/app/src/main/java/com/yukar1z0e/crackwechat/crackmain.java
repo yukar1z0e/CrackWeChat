@@ -22,7 +22,7 @@ import static de.robv.android.xposed.XposedHelpers.findAndHookConstructor;
 
 public class crackmain implements IXposedHookLoadPackage{
     @Override
-    public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam)throws Throwable{
+    public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam){
         Log.d("Begin","Test Xposed--->"+lpparam.packageName);
         if (lpparam.packageName.contains("com.tencent.mm")){
             Log.d("Begin","Xposed Hooked--->"+lpparam.packageName);
