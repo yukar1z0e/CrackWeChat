@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Code\Android\Test Hook\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+1590372615.index

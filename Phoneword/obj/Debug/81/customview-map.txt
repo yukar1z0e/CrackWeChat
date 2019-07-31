@@ -1,0 +1,6 @@
+Button;obj\Debug\81\res\layout\main.xml
+EditText;obj\Debug\81\res\layout\main.xml
+LinearLayout;obj\Debug\81\res\layout\main.xml
+resources;obj\Debug\81\res\values\strings.xml
+string;obj\Debug\81\res\values\strings.xml
+TextView;obj\Debug\81\res\layout\main.xml

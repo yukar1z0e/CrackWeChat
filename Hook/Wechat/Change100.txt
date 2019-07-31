@@ -1,0 +1,7941 @@
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+Tracing com.tencent.mars.xlog.Xlog.logWrite2 [1 overload(s)]
+first entering selector
+Tracing com.tencent.mars.xlog.Xlog.getLogLevel [1 overload(s)]
+Tracing com.tencent.voip.mars.xlog.Xlog.getLogLevel [1 overload(s)]
+java
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+Tracing com.tencent.mars.xlog.Xlog.logWrite2 [1 overload(s)]
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.logWrite2
+
+arg[0]: 3
+arg[1]: WCDB.SQLite
+arg[2]: 
+arg[3]: 
+arg[4]: 0
+arg[5]: 6037
+arg[6]: 6077
+Transfer Object to JSON
+arg[6]: "6077"
+arg[7]: 6037
+Transfer Object to JSON
+arg[7]: "6037"
+arg[8]: [SQLite ErrCode: 28] double-quoted string literal: "v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger"
+
+
+retval: undefined
+
+*** exiting com.tencent.mars.xlog.Xlog.logWrite2
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.logWrite2
+
+arg[0]: 3
+arg[1]: WCDB.SQLite
+arg[2]: 
+arg[3]: 
+arg[4]: 0
+arg[5]: 6037
+arg[6]: 6037
+Transfer Object to JSON
+arg[6]: "6037"
+arg[7]: 6037
+Transfer Object to JSON
+arg[7]: "6037"
+arg[8]: [SQLite ErrCode: 28] double-quoted string literal: "wxid_pbl3tw9cqadb22"
+
+
+retval: undefined
+
+*** exiting com.tencent.mars.xlog.Xlog.logWrite2
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.logWrite2
+
+arg[0]: 3
+arg[1]: WCDB.SQLite
+arg[2]: 
+arg[3]: 
+arg[4]: 0
+arg[5]: 6037
+arg[6]: 6233
+Transfer Object to JSON
+arg[6]: "6233"
+arg[7]: 6037
+Transfer Object to JSON
+arg[7]: "6037"
+arg[8]: [SQLite ErrCode: 28] double-quoted string literal: "wxid_pbl3tw9cqadb22"
+
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: undefined
+
+*** exiting com.tencent.mars.xlog.Xlog.logWrite2
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel
+
+After Change Retval: 100
+
+*** entered com.tencent.mars.xlog.Xlog.getLogLevel
+
+retval: 2
+
+*** exiting com.tencent.mars.xlog.Xlog.getLogLevel

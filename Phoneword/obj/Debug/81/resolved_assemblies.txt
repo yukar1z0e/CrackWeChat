@@ -1,0 +1,11 @@
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\Phoneword.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\yakum\Downloads\Phoneword\Phoneword\obj\Debug\81\android\assets\Mono.Security.dll

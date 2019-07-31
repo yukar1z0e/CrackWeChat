@@ -1,0 +1,4751 @@
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "com.tencent" on path: DexPathList[[zip file "/data/app/com.tencent.mm-Zz-GC7UhYOcbO-h85v0Tuw==/base.apk"],nativeLibraryDirectories=[/data/app/com.tencent.mm-Zz-GC7UhYOcbO-h85v0Tuw==/lib/arm, /data/app/com.tencent.mm-Zz-GC7UhYOcbO-h85v0Tuw==/base.apk!/lib/armeabi-v7a, /system/lib, /system/vendor/lib]]
+first entering selector
+java
+found is true
+before:com.tencent.mm.protocal.protobuf.atn
+after:com.tencent.mm.protocal.protobuf.atn
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.atn.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ato
+after:com.tencent.mm.protocal.protobuf.ato
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ato.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.acu
+after:com.tencent.mm.protocal.protobuf.acu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.acu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cjj
+after:com.tencent.mm.protocal.protobuf.cjj
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cjj.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.auf
+after:com.tencent.mm.protocal.protobuf.auf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.auf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.aug
+after:com.tencent.mm.protocal.protobuf.aug
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.aug.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.iz
+after:com.tencent.mm.protocal.protobuf.iz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.iz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ja
+after:com.tencent.mm.protocal.protobuf.ja
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ja.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$b
+after:com.tencent.mm.protocal.l$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$b.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.dmr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.dms [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$c
+after:com.tencent.mm.protocal.l$c
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$c.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$c.dms [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$d
+after:com.tencent.mm.protocal.l$d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$d.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.dmr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.hB [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$e
+after:com.tencent.mm.protocal.l$e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$e.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$e.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bha
+after:com.tencent.mm.protocal.protobuf.bha
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bha.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bhb
+after:com.tencent.mm.protocal.protobuf.bhb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bhb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bzr
+after:com.tencent.mm.protocal.protobuf.bzr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bzr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bzw
+after:com.tencent.mm.protocal.protobuf.bzw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bzw.getRet [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$c$a
+after:com.tencent.mm.protocal.j$c$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.protobuf.ll
+after:com.tencent.mm.protocal.protobuf.ll
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ll.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.lm
+after:com.tencent.mm.protocal.protobuf.lm
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.lm.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.agb
+after:com.tencent.mm.protocal.protobuf.agb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.agb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.agc
+after:com.tencent.mm.protocal.protobuf.agc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.agc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a
+after:com.tencent.mm.protocal.a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.dlZ [1 overload(s)]
+Tracing com.tencent.mm.protocal.a.getNetType [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.axg
+after:com.tencent.mm.protocal.protobuf.axg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.axg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.d
+after:com.tencent.mm.protocal.d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.d.Lw [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmd [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dme [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmf [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmg [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.e
+after:com.tencent.mm.protocal.e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.f
+after:com.tencent.mm.protocal.f
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.f.bK [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.dmh [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.dmi [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.me [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.h
+after:com.tencent.mm.protocal.h
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.h.QF [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.T [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.U [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adk [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adl [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adm [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adn [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.ado [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adp [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adq [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getClientVersion [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getPassword [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getUserName [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.hB [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.kY [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.kZ [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.qu [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.qv [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.i
+after:com.tencent.mm.protocal.i
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.i.QF [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adA [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adB [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adC [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adD [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.ada [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adc [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adw [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adx [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.ady [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adz [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.jQ [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.la [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.qx [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l
+after:com.tencent.mm.protocal.l
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l.a [2 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m
+after:com.tencent.mm.protocal.m
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.o
+after:com.tencent.mm.protocal.o
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.o.akE [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.akF [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.ei [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.hN [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.toString [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.axu
+after:com.tencent.mm.protocal.protobuf.axu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.axu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.y
+after:com.tencent.mm.protocal.y
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.y.K [1 overload(s)]
+Tracing com.tencent.mm.protocal.y.Ri [1 overload(s)]
+Tracing com.tencent.mm.protocal.y.Rj [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.z
+after:com.tencent.mm.protocal.z
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.z.O [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmv [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmw [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmx [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmz [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmy [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mv
+after:com.tencent.mm.protocal.protobuf.mv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mw
+after:com.tencent.mm.protocal.protobuf.mw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mx
+after:com.tencent.mm.protocal.protobuf.mx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.na
+after:com.tencent.mm.protocal.protobuf.na
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.na.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.og
+after:com.tencent.mm.protocal.protobuf.og
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.og.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.oh
+after:com.tencent.mm.protocal.protobuf.oh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.oh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cpr
+after:com.tencent.mm.protocal.protobuf.cpr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cpr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ajv
+after:com.tencent.mm.protocal.protobuf.ajv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ajv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ajw
+after:com.tencent.mm.protocal.protobuf.ajw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ajw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$a
+after:com.tencent.mm.protocal.j$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$a.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$b
+after:com.tencent.mm.protocal.j$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$b.P [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$c
+after:com.tencent.mm.protocal.j$c
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$c.ZP [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$c.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$c.cn [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$d
+after:com.tencent.mm.protocal.j$d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$d.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$d.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$d.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$e
+after:com.tencent.mm.protocal.j$e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$e.P [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$f
+after:com.tencent.mm.protocal.j$f
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$f.bL [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$f.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$g
+after:com.tencent.mm.protocal.j$g
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$g.LA [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$g.b [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.MMProtocalJni
+after:com.tencent.mm.protocal.MMProtocalJni
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesDecrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesDecryptFile [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesEncrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.computerKeyWithAllStr [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.decodeSecureNotifyData [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.genClientCheckKVRes [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.genSignature [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.generateECKey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.mergeSyncKey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.pack [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packDoubleHybrid [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybrid [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybridEcdh [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.rsaPublicEncrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.rsaPublicEncryptPemkey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setClientPackVersion [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setIsLite [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setProtocalJniLogLevel [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.unpack [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.verifySyncKey [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.o$a
+after:com.tencent.mm.protocal.o$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t
+after:com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.computeNestedMessageSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.computeSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getBuffer [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getBufferToBytes [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getILen [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.hasBuffer [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.parseFrom [2 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setBuffer [3 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toByteArray [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.validate [2 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.writeFields [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a.a.k
+after:com.tencent.mm.protocal.a.a.k
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.a.k.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a.a.l
+after:com.tencent.mm.protocal.a.a.l
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.a.l.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ac
+after:com.tencent.mm.protocal.protobuf.ac
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ac.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.TimeLineObject
+after:com.tencent.mm.protocal.protobuf.TimeLineObject
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.TimeLineObject.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ad
+after:com.tencent.mm.protocal.protobuf.ad
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ad.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.csd
+after:com.tencent.mm.protocal.protobuf.csd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.csd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ae
+after:com.tencent.mm.protocal.protobuf.ae
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ae.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cse
+after:com.tencent.mm.protocal.protobuf.cse
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cse.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cbd
+after:com.tencent.mm.protocal.protobuf.cbd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cbd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ag
+after:com.tencent.mm.protocal.protobuf.ag
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ag.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cbf
+after:com.tencent.mm.protocal.protobuf.cbf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cbf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.rq
+after:com.tencent.mm.protocal.protobuf.rq
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.rq.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.rr
+after:com.tencent.mm.protocal.protobuf.rr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.rr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ar
+after:com.tencent.mm.protocal.protobuf.ar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ar.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.t$a
+after:com.tencent.mm.protocal.t$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.t$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$a.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.t$b
+after:com.tencent.mm.protocal.t$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.t$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bqd
+after:com.tencent.mm.protocal.protobuf.bqd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bqd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.i$a
+after:com.tencent.mm.protocal.i$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.i$a.K [1 overload(s)]
+Tracing com.tencent.mm.protocal.i$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.i$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ccx
+after:com.tencent.mm.protocal.protobuf.ccx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ccx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.tc
+after:com.tencent.mm.protocal.protobuf.tc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.tc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.td
+after:com.tencent.mm.protocal.protobuf.td
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.td.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.y$a
+after:com.tencent.mm.protocal.y$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.y$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.y$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdp
+after:com.tencent.mm.protocal.protobuf.cdp
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdp.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdu
+after:com.tencent.mm.protocal.protobuf.cdu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdw
+after:com.tencent.mm.protocal.protobuf.cdw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bba
+after:com.tencent.mm.protocal.protobuf.bba
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bba.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.dh
+after:com.tencent.mm.protocal.protobuf.dh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.dh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bbg
+after:com.tencent.mm.protocal.protobuf.bbg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bbg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.dr
+after:com.tencent.mm.protocal.protobuf.dr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.dr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsr
+after:com.tencent.mm.protocal.protobuf.bsr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsr.getBaseRequest [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bsr.setBaseRequest [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsw
+after:com.tencent.mm.protocal.protobuf.bsw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsy
+after:com.tencent.mm.protocal.protobuf.bsy
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsy.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsz
+after:com.tencent.mm.protocal.protobuf.bsz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cwd
+after:com.tencent.mm.protocal.protobuf.cwd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cwd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cwe
+after:com.tencent.mm.protocal.protobuf.cwe
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cwe.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bta
+after:com.tencent.mm.protocal.protobuf.bta
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bta.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btb
+after:com.tencent.mm.protocal.protobuf.btb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btc
+after:com.tencent.mm.protocal.protobuf.btc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btd
+after:com.tencent.mm.protocal.protobuf.btd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btd.getBaseResponse [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.btd.setBaseResponse [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cfi
+after:com.tencent.mm.protocal.protobuf.cfi
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cfi.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.h$a
+after:com.tencent.mm.protocal.h$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.h$a.J [1 overload(s)]
+Tracing com.tencent.mm.protocal.h$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.h$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bts
+after:com.tencent.mm.protocal.protobuf.bts
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bts.alV [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.computeSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.parseFrom [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.toByteArray [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.toString [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.validate [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.writeFields [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cfz
+after:com.tencent.mm.protocal.protobuf.cfz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cfz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.BaseResponse
+after:com.tencent.mm.protocal.protobuf.BaseResponse
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.BaseResponse.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.buk
+after:com.tencent.mm.protocal.protobuf.buk
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.buk.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.x$b
+after:com.tencent.mm.protocal.x$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.x$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.dmu [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.fv
+after:com.tencent.mm.protocal.protobuf.fv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.fv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bdu
+after:com.tencent.mm.protocal.protobuf.bdu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bdu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bdv
+after:com.tencent.mm.protocal.protobuf.bdv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bdv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.xa
+after:com.tencent.mm.protocal.protobuf.xa
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.xa.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m$a
+after:com.tencent.mm.protocal.m$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.m$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m$b
+after:com.tencent.mm.protocal.m$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.m$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$b.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ge
+after:com.tencent.mm.protocal.protobuf.ge
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ge.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gf
+after:com.tencent.mm.protocal.protobuf.gf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gg
+after:com.tencent.mm.protocal.protobuf.gg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gh
+after:com.tencent.mm.protocal.protobuf.gh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.chg
+after:com.tencent.mm.protocal.protobuf.chg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.chg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bej
+after:com.tencent.mm.protocal.protobuf.bej
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bej.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bek
+after:com.tencent.mm.protocal.protobuf.bek
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bek.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bel
+after:com.tencent.mm.protocal.protobuf.bel
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bel.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.xu
+after:com.tencent.mm.protocal.protobuf.xu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.xu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cht
+after:com.tencent.mm.protocal.protobuf.cht
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cht.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.abr
+after:com.tencent.mm.protocal.protobuf.abr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.abr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.aa
+after:com.tencent.mm.protocal.aa
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.aa.bO [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.bP [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.j [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.k [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.asz
+after:com.tencent.mm.protocal.protobuf.asz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.asz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.abx
+after:com.tencent.mm.protocal.protobuf.abx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.abx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hh
+after:com.tencent.mm.protocal.protobuf.hh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hj
+after:com.tencent.mm.protocal.protobuf.hj
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hj.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hl
+after:com.tencent.mm.protocal.protobuf.hl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hl.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bwl
+after:com.tencent.mm.protocal.protobuf.bwl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bwl.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bwm
+after:com.tencent.mm.protocal.protobuf.bwm
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bwm.op [1 overload(s)]
+first entering selector
+java
+found is true
+before:com.tencent.mm.protocal.protobuf.atn
+after:com.tencent.mm.protocal.protobuf.atn
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.atn.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ato
+after:com.tencent.mm.protocal.protobuf.ato
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ato.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.acu
+after:com.tencent.mm.protocal.protobuf.acu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.acu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cjj
+after:com.tencent.mm.protocal.protobuf.cjj
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cjj.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.auf
+after:com.tencent.mm.protocal.protobuf.auf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.auf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.aug
+after:com.tencent.mm.protocal.protobuf.aug
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.aug.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.iz
+after:com.tencent.mm.protocal.protobuf.iz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.iz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ja
+after:com.tencent.mm.protocal.protobuf.ja
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ja.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$a
+after:com.tencent.mm.protocal.l$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$a.a [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$b
+after:com.tencent.mm.protocal.l$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$b.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.dmr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$b.dms [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$c
+after:com.tencent.mm.protocal.l$c
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$c.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$c.dms [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$d
+after:com.tencent.mm.protocal.l$d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$d.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.dmr [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$d.hB [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l$e
+after:com.tencent.mm.protocal.l$e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l$e.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.l$e.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bha
+after:com.tencent.mm.protocal.protobuf.bha
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bha.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bhb
+after:com.tencent.mm.protocal.protobuf.bhb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bhb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.awi
+after:com.tencent.mm.protocal.protobuf.awi
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.awi.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bzr
+after:com.tencent.mm.protocal.protobuf.bzr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bzr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bzt
+after:com.tencent.mm.protocal.protobuf.bzt
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bzt.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bzw
+after:com.tencent.mm.protocal.protobuf.bzw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bzw.getRet [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$c$a
+after:com.tencent.mm.protocal.j$c$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.protobuf.ll
+after:com.tencent.mm.protocal.protobuf.ll
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ll.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.lm
+after:com.tencent.mm.protocal.protobuf.lm
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.lm.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.agb
+after:com.tencent.mm.protocal.protobuf.agb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.agb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.agc
+after:com.tencent.mm.protocal.protobuf.agc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.agc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a
+after:com.tencent.mm.protocal.a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.dlZ [1 overload(s)]
+Tracing com.tencent.mm.protocal.a.getNetType [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.axg
+after:com.tencent.mm.protocal.protobuf.axg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.axg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.d
+after:com.tencent.mm.protocal.d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.d.Lw [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmd [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dme [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmf [1 overload(s)]
+Tracing com.tencent.mm.protocal.d.dmg [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.e
+after:com.tencent.mm.protocal.e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.f
+after:com.tencent.mm.protocal.f
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.f.bK [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.dmh [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.dmi [1 overload(s)]
+Tracing com.tencent.mm.protocal.f.me [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.h
+after:com.tencent.mm.protocal.h
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.h.QF [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.T [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.U [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adk [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adl [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adm [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adn [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.ado [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adp [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adq [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.ads [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getClientVersion [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getPassword [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.getUserName [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.hB [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.kY [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.kZ [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.qu [1 overload(s)]
+Tracing com.tencent.mm.protocal.h.qv [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.i
+after:com.tencent.mm.protocal.i
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.i.QF [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adA [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adB [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adC [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adD [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.ada [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adc [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adw [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adx [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.ady [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.adz [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.getCmdId [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.jQ [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.la [1 overload(s)]
+Tracing com.tencent.mm.protocal.i.qx [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.l
+after:com.tencent.mm.protocal.l
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.l.a [2 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m
+after:com.tencent.mm.protocal.m
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.o
+after:com.tencent.mm.protocal.o
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.o.akE [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.akF [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.ei [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.hN [1 overload(s)]
+Tracing com.tencent.mm.protocal.o.toString [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.axu
+after:com.tencent.mm.protocal.protobuf.axu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.axu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.y
+after:com.tencent.mm.protocal.y
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.y.K [1 overload(s)]
+Tracing com.tencent.mm.protocal.y.Ri [1 overload(s)]
+Tracing com.tencent.mm.protocal.y.Rj [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.z
+after:com.tencent.mm.protocal.z
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.z.O [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmv [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmw [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmx [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmz [1 overload(s)]
+Tracing com.tencent.mm.protocal.z.dmy [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mv
+after:com.tencent.mm.protocal.protobuf.mv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mw
+after:com.tencent.mm.protocal.protobuf.mw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.mx
+after:com.tencent.mm.protocal.protobuf.mx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.mx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ayt
+after:com.tencent.mm.protocal.protobuf.ayt
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ayt.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.na
+after:com.tencent.mm.protocal.protobuf.na
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.na.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bld
+after:com.tencent.mm.protocal.protobuf.bld
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bld.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cok
+after:com.tencent.mm.protocal.protobuf.cok
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cok.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.og
+after:com.tencent.mm.protocal.protobuf.og
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.og.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.oh
+after:com.tencent.mm.protocal.protobuf.oh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.oh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cpr
+after:com.tencent.mm.protocal.protobuf.cpr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cpr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cpx
+after:com.tencent.mm.protocal.protobuf.cpx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cpx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ajv
+after:com.tencent.mm.protocal.protobuf.ajv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ajv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ajw
+after:com.tencent.mm.protocal.protobuf.ajw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ajw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$a
+after:com.tencent.mm.protocal.j$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$a.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$b
+after:com.tencent.mm.protocal.j$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$b.P [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$c
+after:com.tencent.mm.protocal.j$c
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$c.ZP [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$c.a [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$c.cn [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$d
+after:com.tencent.mm.protocal.j$d
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$d.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$d.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$d.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$e
+after:com.tencent.mm.protocal.j$e
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$e.P [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$f
+after:com.tencent.mm.protocal.j$f
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$f.bL [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$f.getUri [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.j$g
+after:com.tencent.mm.protocal.j$g
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.j$g.LA [1 overload(s)]
+Tracing com.tencent.mm.protocal.j$g.b [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.MMProtocalJni
+after:com.tencent.mm.protocal.MMProtocalJni
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesDecrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesDecryptFile [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.aesEncrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.computerKeyWithAllStr [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.decodeSecureNotifyData [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.genClientCheckKVRes [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.genSignature [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.generateECKey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.mergeSyncKey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.pack [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packDoubleHybrid [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybrid [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybridEcdh [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.rsaPublicEncrypt [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.rsaPublicEncryptPemkey [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setClientPackVersion [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setIsLite [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.setProtocalJniLogLevel [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.unpack [1 overload(s)]
+Tracing com.tencent.mm.protocal.MMProtocalJni.verifySyncKey [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cap
+after:com.tencent.mm.protocal.protobuf.cap
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cap.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.o$a
+after:com.tencent.mm.protocal.o$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t
+after:com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.computeNestedMessageSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.computeSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getBuffer [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getBufferToBytes [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.getILen [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.hasBuffer [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.parseFrom [2 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setBuffer [3 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toByteArray [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.validate [2 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.writeFields [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a.a.k
+after:com.tencent.mm.protocal.a.a.k
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.a.k.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.a.a.l
+after:com.tencent.mm.protocal.a.a.l
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.a.a.l.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ac
+after:com.tencent.mm.protocal.protobuf.ac
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ac.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.TimeLineObject
+after:com.tencent.mm.protocal.protobuf.TimeLineObject
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.TimeLineObject.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ad
+after:com.tencent.mm.protocal.protobuf.ad
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ad.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.csd
+after:com.tencent.mm.protocal.protobuf.csd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.csd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ae
+after:com.tencent.mm.protocal.protobuf.ae
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ae.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cse
+after:com.tencent.mm.protocal.protobuf.cse
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cse.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cbd
+after:com.tencent.mm.protocal.protobuf.cbd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cbd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ag
+after:com.tencent.mm.protocal.protobuf.ag
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ag.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cbf
+after:com.tencent.mm.protocal.protobuf.cbf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cbf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.rq
+after:com.tencent.mm.protocal.protobuf.rq
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.rq.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.rr
+after:com.tencent.mm.protocal.protobuf.rr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.rr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ar
+after:com.tencent.mm.protocal.protobuf.ar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ar.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.av
+after:com.tencent.mm.protocal.protobuf.av
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.av.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cbu
+after:com.tencent.mm.protocal.protobuf.cbu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cbu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.t$a
+after:com.tencent.mm.protocal.t$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.t$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$a.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.t$b
+after:com.tencent.mm.protocal.t$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.t$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.t$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cth
+after:com.tencent.mm.protocal.protobuf.cth
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cth.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bqd
+after:com.tencent.mm.protocal.protobuf.bqd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bqd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.i$a
+after:com.tencent.mm.protocal.i$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.i$a.K [1 overload(s)]
+Tracing com.tencent.mm.protocal.i$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.i$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ccx
+after:com.tencent.mm.protocal.protobuf.ccx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ccx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bqv
+after:com.tencent.mm.protocal.protobuf.bqv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bqv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.tc
+after:com.tencent.mm.protocal.protobuf.tc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.tc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.td
+after:com.tencent.mm.protocal.protobuf.td
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.td.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bag
+after:com.tencent.mm.protocal.protobuf.bag
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bag.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.y$a
+after:com.tencent.mm.protocal.y$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.y$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.y$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdp
+after:com.tencent.mm.protocal.protobuf.cdp
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdp.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.tw
+after:com.tencent.mm.protocal.protobuf.tw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.tw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdu
+after:com.tencent.mm.protocal.protobuf.cdu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cdw
+after:com.tencent.mm.protocal.protobuf.cdw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cdw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.uf
+after:com.tencent.mm.protocal.protobuf.uf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.uf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bba
+after:com.tencent.mm.protocal.protobuf.bba
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bba.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.dh
+after:com.tencent.mm.protocal.protobuf.dh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.dh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cvi
+after:com.tencent.mm.protocal.protobuf.cvi
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cvi.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bbg
+after:com.tencent.mm.protocal.protobuf.bbg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bbg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.dr
+after:com.tencent.mm.protocal.protobuf.dr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.dr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ds
+after:com.tencent.mm.protocal.protobuf.ds
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ds.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsr
+after:com.tencent.mm.protocal.protobuf.bsr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsr.getBaseRequest [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bsr.setBaseRequest [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsw
+after:com.tencent.mm.protocal.protobuf.bsw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsw.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsy
+after:com.tencent.mm.protocal.protobuf.bsy
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsy.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bsz
+after:com.tencent.mm.protocal.protobuf.bsz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bsz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cwd
+after:com.tencent.mm.protocal.protobuf.cwd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cwd.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cwe
+after:com.tencent.mm.protocal.protobuf.cwe
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cwe.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bta
+after:com.tencent.mm.protocal.protobuf.bta
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bta.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btb
+after:com.tencent.mm.protocal.protobuf.btb
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btb.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btc
+after:com.tencent.mm.protocal.protobuf.btc
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btc.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.btd
+after:com.tencent.mm.protocal.protobuf.btd
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.btd.getBaseResponse [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.btd.setBaseResponse [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cfg
+after:com.tencent.mm.protocal.protobuf.cfg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cfg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cfi
+after:com.tencent.mm.protocal.protobuf.cfi
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cfi.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.h$a
+after:com.tencent.mm.protocal.h$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.h$a.J [1 overload(s)]
+Tracing com.tencent.mm.protocal.h$a.asBinder [1 overload(s)]
+Tracing com.tencent.mm.protocal.h$a.onTransact [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bts
+after:com.tencent.mm.protocal.protobuf.bts
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bts.alV [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.computeSize [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.parseFrom [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.toByteArray [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.toString [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.validate [1 overload(s)]
+Tracing com.tencent.mm.protocal.protobuf.bts.writeFields [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cfz
+after:com.tencent.mm.protocal.protobuf.cfz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cfz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.BaseResponse
+after:com.tencent.mm.protocal.protobuf.BaseResponse
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.BaseResponse.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.buk
+after:com.tencent.mm.protocal.protobuf.buk
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.buk.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.x$b
+after:com.tencent.mm.protocal.x$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.x$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.dmu [1 overload(s)]
+Tracing com.tencent.mm.protocal.x$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.fv
+after:com.tencent.mm.protocal.protobuf.fv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.fv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bdu
+after:com.tencent.mm.protocal.protobuf.bdu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bdu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ars
+after:com.tencent.mm.protocal.protobuf.ars
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ars.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bdv
+after:com.tencent.mm.protocal.protobuf.bdv
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bdv.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.xa
+after:com.tencent.mm.protocal.protobuf.xa
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.xa.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m$a
+after:com.tencent.mm.protocal.m$a
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.m$a.ZT [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.ZU [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.adr [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$a.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.m$b
+after:com.tencent.mm.protocal.m$b
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.m$b.P [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$b.dms [1 overload(s)]
+Tracing com.tencent.mm.protocal.m$b.getCmdId [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.ge
+after:com.tencent.mm.protocal.protobuf.ge
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.ge.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gf
+after:com.tencent.mm.protocal.protobuf.gf
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gf.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gg
+after:com.tencent.mm.protocal.protobuf.gg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.gh
+after:com.tencent.mm.protocal.protobuf.gh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.gh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.chg
+after:com.tencent.mm.protocal.protobuf.chg
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.chg.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bej
+after:com.tencent.mm.protocal.protobuf.bej
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bej.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bek
+after:com.tencent.mm.protocal.protobuf.bek
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bek.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bel
+after:com.tencent.mm.protocal.protobuf.bel
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bel.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.xu
+after:com.tencent.mm.protocal.protobuf.xu
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.xu.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.cht
+after:com.tencent.mm.protocal.protobuf.cht
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.cht.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.abr
+after:com.tencent.mm.protocal.protobuf.abr
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.abr.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.aa
+after:com.tencent.mm.protocal.aa
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.aa.bO [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.bP [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.j [1 overload(s)]
+Tracing com.tencent.mm.protocal.aa.k [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.asz
+after:com.tencent.mm.protocal.protobuf.asz
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.asz.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.abx
+after:com.tencent.mm.protocal.protobuf.abx
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.abx.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hh
+after:com.tencent.mm.protocal.protobuf.hh
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hh.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hj
+after:com.tencent.mm.protocal.protobuf.hj
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hj.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.hl
+after:com.tencent.mm.protocal.protobuf.hl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.hl.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bwl
+after:com.tencent.mm.protocal.protobuf.bwl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bwl.op [1 overload(s)]
+found is true
+before:com.tencent.mm.protocal.protobuf.bwm
+after:com.tencent.mm.protocal.protobuf.bwm
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing com.tencent.mm.protocal.protobuf.bwm.op [1 overload(s)]
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: 19921867948
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 19921867948
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 19921867948
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3bb66","$weakRef":447}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3bb22","$weakRef":448}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 20
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3bb02","$weakRef":451}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3baf2","$weakRef":452}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 21
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3bae2","$weakRef":454}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3bad2","$weakRef":455}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 3
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3bab2","$weakRef":458}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3baa2","$weakRef":459}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ba92","$weakRef":461}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ba82","$weakRef":462}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ba62","$weakRef":465}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ba52","$weakRef":466}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l.a
+
+arg[0]: com.tencent.mm.ai.b$b@3cd0dcb
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3ba22","$weakRef":469}
+
+retval: com.tencent.mm.protocal.protobuf.hl@e84e9a8
+
+*** exiting com.tencent.mm.protocal.l.a
+
+*** entered com.tencent.mm.protocal.protobuf.bsr.setBaseRequest
+
+arg[0]: com.tencent.mm.protocal.protobuf.hl@e84e9a8
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b9d2","$weakRef":474}
+
+retval: com.tencent.mm.protocal.protobuf.buu@db8dcc1
+
+*** exiting com.tencent.mm.protocal.protobuf.bsr.setBaseRequest
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 1
+arg[1]: 
+Transfer Object to JSON
+
+arg[1]: []
+
+retval: 62
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.protobuf.bts.computeSize
+
+retval: 13
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.computeSize
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 1
+arg[1]: 
+Transfer Object to JSON
+
+arg[1]: []
+
+retval: 62
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 0
+arg[1]: e.a.a.c.a@93efc66
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3b962","$weakRef":481}]
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.protobuf.bts.computeSize
+
+retval: 13
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.computeSize
+
+*** entered com.tencent.mm.protocal.protobuf.bts.writeFields
+
+arg[0]: e.a.a.c.a@93efc66
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b912","$weakRef":486}
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.writeFields
+
+*** entered com.tencent.mm.protocal.l$d.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$d.dms
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+arg[0]: 1490754504
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [7,-91,18,-120,15,95,123,93,-107,13,-90,-5,115,-14,-68,-123]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [10,62,10,16,96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,13,10,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,1,48,3]
+
+retval: 694820510
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+*** entered com.tencent.mm.protocal.l$d.dmr
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.l$d.dmr
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+arg[0]: [10,62,10,16,96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,13,10,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,1,48,3]
+arg[1]: com.tencent.mm.pointers.PByteArray@712f854
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b862","$weakRef":497}
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+
+arg[4]: [126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 106
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+
+arg[10]: []
+arg[11]: 694820510
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b812","$weakRef":503}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b802","$weakRef":504}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 15
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b7f2","$weakRef":506}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b7e2","$weakRef":507}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 22
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b7d2","$weakRef":509}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b7c2","$weakRef":510}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b7a2","$weakRef":512}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b792","$weakRef":513}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$e.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$e.dms
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@12e78f2
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b772","$weakRef":515}
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [-65,-107,95,0,0,0,0,88,-37,27,-56,126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0,106,-26,5,-99,4,0,0,0,-1,0,0,50,103,-110,125,36,-125,-42,-17,-18,95,-81,74,73,51,-104,85,-19,-47,126,-54,119,12,58,-11,-1,122,-46,-111,-100,39,12,6,-14,51,-112,-112,-120,-115,126,-65,88,69,-67,-19,-36,2,-119,-24,28,-3,9,81,79,-11,106,118,58,57,123,-61,5,-118,89,-34,95,-68,-92,-34,51,67,-42,33,120,19,-104,-18,-52,-50,-69,-94,66,118,42,82,84,-25,-21,15,-34,-49,-80,48,-113,-111,1,-26,-111,-118,-124,-87,-28,26,-90,121,110,-89,76,-96,72,100,-74,-95,24,-87,126,-2,123,59,35,4,51,67,-74,-96,-7,109,-60,-115,-1,8,42,-93,-123,100,0,30,-4,-44,73,78,118,-116,-40,88,112,-8,64,115,39,112,-55,12,-73,-126,34,-45,-20,-112,18,-48,-16,46,-62,97,67,52,85,-21,-24,-79,-15,-116,-61,63,121,88,-92,-37,-104,-125,123,51,-7,98,78,124,84,17,12,18,-78,-7,63,-46,-79,-118,-46,12,94,-36,-110,121,94,46,-71,-66,126,-56,-87,-41,-112,63,-6,123,32,46,-50,-83,-61,34,-77,64,69,9,-3,-24,-50,-84,104,-86,68,8,-13,85,96,19,54,109,-51,39,44,-49,-44,-95,112,-74,78,33,7,-46,-126,43,-25,-2,116,-91,54,59,-1,-32,60,-70,86,-76,97,127,84,1,85,-115,-52,-54,-90,-104,107,-95,84,101,-121,92,-25,4,75,-1,-120,6,14,-28,-20,45,-77,89,30,-41,15,-71,-107,-60,-114,-119,-109,34,86,-78,111,-24,101,106,49,84,57,25,-32,-107,34,95,17,-37,37,73,63,-126,98,-124,18,-21,-27,40,-84,-45,-47,93,63,-21,93,31,-43,127,-107,53,-49,-27,81,-26,-78,-63,-125,-94,92,68,36,-108,21,-106,-38,-106,-18,55,-86,-43,-16,81,-106,79,84,66,78,-15,62,12,-27,-109,113,57,74,18,85,-74,-58,-65,93,50,-21,13,-17,39,-4,-10,59,-41,-60,84,109,111,51,-69,-109,108,-107,63,18,-80,6,123,-7,68,-123,65,44,-65,-35,-7,109,44,24,4,-55,-17,-115,-54,79,106,-55,37,46,-26,45,-92,65,14,119,87,118,-28,-38,6,126,7,-46,-67,-62,-81,-124,113,-15,43,61,116,33,93,-95,15,52,103,110,-55,124,29,-53,18,-3,14,-39,-17,-101,-99,-15,95,-107,-12,-25,-105,-41,105,-119,52,64,-45,-17,-120,-28,91,127,-13,-94,-87,-86,98,-21,96,-128,121,43,-82,-47,-102,67,-63,62,-29,41,103,47,41,-19,36,-107,-97,99,6,107,38,-50,-79,93,-19,86,88,-23,-98,79,17,-124,20,40,-49,-3,-21,-55,-15,35,-20,-103,-92,75,85,-78,-113,-101,96,81,-86,35,33]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: com.tencent.mm.pointers.PByteArray@6cf6b43
+Transfer Object to JSON
+
+arg[3]: {"$handle":"0x3b742","$weakRef":518}
+arg[4]: com.tencent.mm.pointers.PInt@1d145c0
+Transfer Object to JSON
+
+arg[4]: {"$handle":"0x3b712","$weakRef":521}
+arg[5]: com.tencent.mm.pointers.PInt@bdb62f9
+Transfer Object to JSON
+
+arg[5]: {"$handle":"0x3b702","$weakRef":522}
+arg[6]: com.tencent.mm.pointers.PInt@a27323e
+Transfer Object to JSON
+
+arg[6]: {"$handle":"0x3b6f2","$weakRef":523}
+arg[7]: com.tencent.mm.pointers.PInt@df3789f
+Transfer Object to JSON
+
+arg[7]: {"$handle":"0x3b6e2","$weakRef":524}
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.unpack
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@5e635b5,com.tencent.mm.protocal.protobuf.BaseResponse@660344a,1
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3b6c2","$weakRef":526},{"$handle":"0x3b6d2","$weakRef":525},{"$handle":"0x3b6b2","$weakRef":527}]
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@5e635b5,com.tencent.mm.protocal.protobuf.BaseResponse@660344a,2
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3b692","$weakRef":529},{"$handle":"0x3b6a2","$weakRef":528},{"$handle":"0x3b682","$weakRef":530}]
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@220ffbb
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b642","$weakRef":534}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b672","$weakRef":531}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: Everything is OK
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: Everything is OK
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: Everything is OK
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@220ffbb
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b5d2","$weakRef":541}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: Everything is OK
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: Everything is OK
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b5e2","$weakRef":540}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@5e635b5,com.tencent.mm.protocal.protobuf.BaseResponse@660344a,0
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3b5a2","$weakRef":544},{"$handle":"0x3b5b2","$weakRef":543},{"$handle":"0x3b592","$weakRef":545}]
+
+retval: -1
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@b9a0cd8
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b572","$weakRef":547}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b582","$weakRef":546}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@b9a0cd8
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b522","$weakRef":552}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: v1_d6ac0ddea069f84be9222317667b323fb5322640e2c5650a989e8885b4a8cf8e0d54eff3b633306999ca8fa9276626cb@stranger
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b532","$weakRef":551}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@7917831
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b4f2","$weakRef":555}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b506","$weakRef":554}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: 乾請伅請伅bia
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 乾請伅請伅bia
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 乾請伅請伅bia
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@7917831
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b4a2","$weakRef":560}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 乾請伅請伅bia
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: 乾請伅請伅bia
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b4b2","$weakRef":559}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@2754b16
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b472","$weakRef":563}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b482","$weakRef":562}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: WXIDPBL3TW9CQADB22
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: WXIDPBL3TW9CQADB22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: WXIDPBL3TW9CQADB22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@2754b16
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b422","$weakRef":568}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: WXIDPBL3TW9CQADB22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: WXIDPBL3TW9CQADB22
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b432","$weakRef":567}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@1d5dc97
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b3f2","$weakRef":571}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b402","$weakRef":570}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: wxidpbl3tw9cqadb22
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: wxidpbl3tw9cqadb22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: wxidpbl3tw9cqadb22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@1d5dc97
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b3a2","$weakRef":576}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: wxidpbl3tw9cqadb22
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: wxidpbl3tw9cqadb22
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b3b2","$weakRef":575}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@50f1e84
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b372","$weakRef":579}
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+arg[1]: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b382","$weakRef":578}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen
+
+arg[0]: 0
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@50f1e84
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b302","$weakRef":586}
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+arg[1]: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b312","$weakRef":585}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@d4666d
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b2d2","$weakRef":589}
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+arg[1]: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b2e2","$weakRef":588}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen
+
+arg[0]: 0
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.setILen
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@d4666d
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b282","$weakRef":594}
+
+*** entered com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+
+retval: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.toString
+arg[1]: com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t(iLen = 0   )
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b292","$weakRef":593}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.SKBuiltinBuffer_t.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@660344a
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+*** entered com.tencent.mm.protocal.l.a
+
+arg[0]: com.tencent.mm.ai.b$c@6f302a2
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3b202","$weakRef":602}
+arg[1]: com.tencent.mm.protocal.protobuf.BaseResponse@660344a
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b1f2","$weakRef":603}
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l.a
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@660344a
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b1c2","$weakRef":607}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b1b2","$weakRef":608}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b1a2","$weakRef":610}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b192","$weakRef":611}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b182","$weakRef":613}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b172","$weakRef":614}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b162","$weakRef":616}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b152","$weakRef":617}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b142","$weakRef":619}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b132","$weakRef":620}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b122","$weakRef":622}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b112","$weakRef":623}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b102","$weakRef":625}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b0f2","$weakRef":626}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b0e2","$weakRef":628}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b0d2","$weakRef":629}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b0c2","$weakRef":631}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b0b2","$weakRef":632}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b0a2","$weakRef":634}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b092","$weakRef":635}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 6
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b082","$weakRef":637}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b072","$weakRef":638}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b062","$weakRef":640}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b052","$weakRef":641}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3b012","$weakRef":644}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3b002","$weakRef":645}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 20
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3afe2","$weakRef":648}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3afd2","$weakRef":649}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 21
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3afc2","$weakRef":651}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3afb2","$weakRef":652}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 3
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3af92","$weakRef":655}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3af82","$weakRef":656}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3af72","$weakRef":658}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3af62","$weakRef":659}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3af52","$weakRef":662}
+arg[2]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3af42","$weakRef":663}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$d.dms
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+arg[0]: 1490754504
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [7,-91,18,-120,15,95,123,93,-107,13,-90,-5,115,-14,-68,-123]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [8,1,18,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,16,56,0,66,0]
+
+retval: 700844944
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+*** entered com.tencent.mm.protocal.l$d.dmr
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.l$d.dmr
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+arg[0]: [8,1,18,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,16,56,0,66,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@b3930b4
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aeb2","$weakRef":672}
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+
+arg[4]: [126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 1071
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+
+arg[10]: []
+arg[11]: 700844944
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ae62","$weakRef":678}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ae52","$weakRef":679}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 15
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ae42","$weakRef":681}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ae32","$weakRef":682}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 22
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ae22","$weakRef":684}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ae12","$weakRef":685}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3adf2","$weakRef":687}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ade2","$weakRef":688}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$e.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$e.dms
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@f855852
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3adc2","$weakRef":690}
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [-65,-110,95,0,0,0,0,88,-37,27,-56,126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0,-81,8,8,8,0,0,0,-1,0,0,-61,85,-109,-55,86,-98,-84,-50,33,-95,-110,-85,64,1,92,72]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: com.tencent.mm.pointers.PByteArray@e1bc723
+Transfer Object to JSON
+
+arg[3]: {"$handle":"0x3ad92","$weakRef":693}
+arg[4]: com.tencent.mm.pointers.PInt@92a420
+Transfer Object to JSON
+
+arg[4]: {"$handle":"0x3ad82","$weakRef":694}
+arg[5]: com.tencent.mm.pointers.PInt@d31d1d9
+Transfer Object to JSON
+
+arg[5]: {"$handle":"0x3ad72","$weakRef":695}
+arg[6]: com.tencent.mm.pointers.PInt@2fca79e
+Transfer Object to JSON
+
+arg[6]: {"$handle":"0x3ad62","$weakRef":696}
+arg[7]: com.tencent.mm.pointers.PInt@2d9b27f
+Transfer Object to JSON
+
+arg[7]: {"$handle":"0x3ad52","$weakRef":697}
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.unpack
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@6e4b295,com.tencent.mm.protocal.protobuf.BaseResponse@2079faa,1
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3ad32","$weakRef":699},{"$handle":"0x3ad42","$weakRef":698},{"$handle":"0x3ad22","$weakRef":700}]
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@6e4b295,com.tencent.mm.protocal.protobuf.BaseResponse@2079faa,2
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3ad02","$weakRef":702},{"$handle":"0x3ad12","$weakRef":701},{"$handle":"0x3acf2","$weakRef":703}]
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@760f79b
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3acd2","$weakRef":705}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ace2","$weakRef":704}
+arg[2]: 1
+
+*** entered com.tencent.mm.protocal.protobuf.bts.alV
+
+arg[0]: 
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.alV
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@760f79b
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3ac82","$weakRef":710}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: 
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: 
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ac92","$weakRef":709}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@6e4b295,com.tencent.mm.protocal.protobuf.BaseResponse@2079faa,0
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3ac52","$weakRef":713},{"$handle":"0x3ac62","$weakRef":712},{"$handle":"0x3ac42","$weakRef":714}]
+
+retval: -1
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@2079faa
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+*** entered com.tencent.mm.protocal.l.a
+
+arg[0]: com.tencent.mm.ai.b$c@c9cd738
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3ac12","$weakRef":717}
+arg[1]: com.tencent.mm.protocal.protobuf.BaseResponse@2079faa
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ac02","$weakRef":718}
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l.a
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@2079faa
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3abd2","$weakRef":722}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3abc2","$weakRef":723}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3abb2","$weakRef":725}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aba2","$weakRef":726}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ab92","$weakRef":728}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ab82","$weakRef":729}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ab72","$weakRef":731}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ab62","$weakRef":732}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ab52","$weakRef":734}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ab42","$weakRef":735}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ab32","$weakRef":737}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ab22","$weakRef":738}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ab12","$weakRef":740}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ab02","$weakRef":741}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aaf2","$weakRef":743}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aae2","$weakRef":744}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aad2","$weakRef":746}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aac2","$weakRef":747}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aab2","$weakRef":749}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aaa2","$weakRef":750}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 6
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aa92","$weakRef":752}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aa82","$weakRef":753}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aa72","$weakRef":755}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aa62","$weakRef":756}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3aa12","$weakRef":759}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3aa02","$weakRef":760}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 20
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a9e2","$weakRef":763}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a9d2","$weakRef":764}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 21
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a9a2","$weakRef":766}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a992","$weakRef":767}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 3
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a9b6","$weakRef":770}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a9ca","$weakRef":771}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a962","$weakRef":773}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a952","$weakRef":774}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a976","$weakRef":777}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a946","$weakRef":778}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l.a
+
+arg[0]: com.tencent.mm.ai.b$b@a0c8109
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3a8c2","$weakRef":779}
+
+retval: com.tencent.mm.protocal.protobuf.hl@24e6d2f
+
+*** exiting com.tencent.mm.protocal.l.a
+
+*** entered com.tencent.mm.protocal.protobuf.bsr.setBaseRequest
+
+arg[0]: com.tencent.mm.protocal.protobuf.hl@24e6d2f
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3a8e6","$weakRef":782}
+
+retval: com.tencent.mm.protocal.protobuf.cfd@202ff3c
+
+*** exiting com.tencent.mm.protocal.protobuf.bsr.setBaseRequest
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 1
+arg[1]: 
+Transfer Object to JSON
+
+arg[1]: []
+
+retval: 62
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 1
+arg[1]: 
+Transfer Object to JSON
+
+arg[1]: []
+
+retval: 62
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.protobuf.hl.op
+
+arg[0]: 0
+arg[1]: e.a.a.c.a@98de1a
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3a7f2","$weakRef":786}]
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.hl.op
+
+*** entered com.tencent.mm.protocal.l$d.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$d.dms
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+arg[0]: 1490754504
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [7,-91,18,-120,15,95,123,93,-107,13,-90,-5,115,-14,-68,-123]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [10,62,10,16,96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,0,26,19,119,120,105,100,95,112,98,108,51,116,119,57,99,113,97,100,98,50,50,32,0,40,0,48,0,56,0,64,0,74,0]
+
+retval: -2120014619
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+*** entered com.tencent.mm.protocal.l$d.dmr
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.l$d.dmr
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+arg[0]: [10,62,10,16,96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,0,26,19,119,120,105,100,95,112,98,108,51,116,119,57,99,113,97,100,98,50,50,32,0,40,0,48,0,56,0,64,0,74,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@67501ca
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a702","$weakRef":795}
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+
+arg[4]: [126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 273
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+
+arg[10]: []
+arg[11]: -2120014619
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a8ba","$weakRef":801}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a8a6","$weakRef":802}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 15
+arg[1]: android.os.Parcel@c230589
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3a886","$weakRef":804}
+arg[2]: android.os.Parcel@78f498e
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3a876","$weakRef":805}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 22
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ccca","$weakRef":807}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ccba","$weakRef":808}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3cc9a","$weakRef":810}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3cc8a","$weakRef":811}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$e.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$e.dms
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@7281d0b
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3cc6a","$weakRef":813}
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [-65,-110,95,0,0,0,0,88,-37,27,-56,126,2,8,2,0,0,0,0,113,-10,-94,-22,85,42,0,-111,2,16,16,0,0,0,-1,0,0,1,-125,16,-15,116,36,-45,-88,-122,62,66,-3,-25,80,16,15,-104,-10,53,-78,-92,-78,7,-11,76,21,85,56,20,-61,113,39]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [96,70,73,79,77,116,57,49,78,113,50,102,116,83,56,75]
+arg[3]: com.tencent.mm.pointers.PByteArray@66fe7e8
+Transfer Object to JSON
+
+arg[3]: {"$handle":"0x3cc3a","$weakRef":816}
+arg[4]: com.tencent.mm.pointers.PInt@bbe9e01
+Transfer Object to JSON
+
+arg[4]: {"$handle":"0x3cc2a","$weakRef":817}
+arg[5]: com.tencent.mm.pointers.PInt@a13c4a6
+Transfer Object to JSON
+
+arg[5]: {"$handle":"0x3cc1a","$weakRef":818}
+arg[6]: com.tencent.mm.pointers.PInt@eb97ee7
+Transfer Object to JSON
+
+arg[6]: {"$handle":"0x3cc0a","$weakRef":819}
+arg[7]: com.tencent.mm.pointers.PInt@74f9a94
+Transfer Object to JSON
+
+arg[7]: {"$handle":"0x3cbfa","$weakRef":820}
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.unpack
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@2152283,com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00,1
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3cbda","$weakRef":822},{"$handle":"0x3cbea","$weakRef":821},{"$handle":"0x3cbca","$weakRef":823}]
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@2152283,com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00,2
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3cbaa","$weakRef":825},{"$handle":"0x3cbba","$weakRef":824},{"$handle":"0x3cb92","$weakRef":826}]
+
+*** entered com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+arg[0]: e.a.a.a.a@2300c39
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3cb72","$weakRef":828}
+
+*** entered com.tencent.mm.protocal.protobuf.bts.toString
+
+retval: null
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.toString
+arg[1]: null
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3cb82","$weakRef":827}
+arg[2]: 0
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.protobuf.bts.populateBuilderWithField
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+arg[0]: 3
+arg[1]: e.a.a.a.a@2152283,com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00,0
+Transfer Object to JSON
+
+arg[1]: [{"$handle":"0x3cb42","$weakRef":831},{"$handle":"0x3cb52","$weakRef":830},{"$handle":"0x3cb32","$weakRef":832}]
+
+retval: -1
+
+*** exiting com.tencent.mm.protocal.protobuf.BaseResponse.op
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+*** entered com.tencent.mm.protocal.l.a
+
+arg[0]: com.tencent.mm.ai.b$c@f44c27e
+Transfer Object to JSON
+
+arg[0]: {"$handle":"0x3cb02","$weakRef":835}
+arg[1]: com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3caf2","$weakRef":836}
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l.a
+
+*** entered com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: com.tencent.mm.protocal.protobuf.BaseResponse@7d5cc00
+
+*** exiting com.tencent.mm.protocal.protobuf.btd.getBaseResponse
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3cac2","$weakRef":840}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3cab2","$weakRef":841}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3caa2","$weakRef":843}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ca92","$weakRef":844}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ca82","$weakRef":846}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ca72","$weakRef":847}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ca62","$weakRef":849}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ca52","$weakRef":850}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ca42","$weakRef":852}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ca32","$weakRef":853}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ca22","$weakRef":855}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3ca12","$weakRef":856}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3ca02","$weakRef":858}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c9f2","$weakRef":859}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c9e2","$weakRef":861}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c9d2","$weakRef":862}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 4
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c9c2","$weakRef":864}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c9b2","$weakRef":865}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c9a2","$weakRef":867}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c992","$weakRef":868}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 6
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c982","$weakRef":870}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c972","$weakRef":871}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.i$a.onTransact
+
+arg[0]: 2
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c962","$weakRef":873}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c952","$weakRef":874}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.i$a.onTransact
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c902","$weakRef":877}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c8f2","$weakRef":878}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 20
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c8e2","$weakRef":881}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c8d2","$weakRef":882}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 21
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c8c2","$weakRef":884}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c8b2","$weakRef":885}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.l$d.adr
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 3
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c892","$weakRef":888}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c882","$weakRef":889}
+arg[3]: 16
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 5
+arg[1]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c872","$weakRef":891}
+arg[2]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c862","$weakRef":892}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.hB
+
+arg[0]: 1490754504
+
+retval: undefined
+
+*** exiting com.tencent.mm.protocal.l$d.hB
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.h$a.onTransact
+
+*** entered com.tencent.mm.protocal.h$a.onTransact
+
+arg[0]: 1
+arg[1]: android.os.Parcel@7bcadbc
+Transfer Object to JSON
+
+arg[1]: {"$handle":"0x3c842","$weakRef":895}
+arg[2]: android.os.Parcel@23fc5af
+Transfer Object to JSON
+
+arg[2]: {"$handle":"0x3c832","$weakRef":896}
+arg[3]: 16
+
+*** entered com.tencent.mm.protocal.l$d.dms
+
+retval: false
+
+*** exiting com.tencent.mm.protocal.l$d.dms
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.z.dmy
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.z.dmy
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+arg[0]: 1490754504
+arg[1]: [object Object]
+Transfer Object to JSON
+
+arg[1]: [7,-91,18,-120,15,95,123,93,-107,13,-90,-5,115,-14,-68,-123]
+arg[2]: [object Object]
+Transfer Object to JSON
+
+arg[2]: [8,38,16,28,24,3,34,-70,10,8,-56,-73,-20,-58,5,58,18,97,110,100,114,111,105,100,45,71,101,110,121,109,111,116,105,111,110,16,-68,-120,-128,-72,2,24,1,34,67,8,-100,92,18,46,50,44,49,44,52,51,51,57,53,49,44,51,57,44,57,48,55,52,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,49,44,52,51,51,57,53,49,44,54,51,44,57,48,55,56,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,50,44,52,51,51,57,53,49,44,55,56,44,57,49,54,50,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,49,44,51,53,44,57,55,56,56,49,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-97,-30,-10,-24,5,32,-97,-30,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,49,44,55,55,44,57,55,56,56,51,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-97,-30,-10,-24,5,32,-97,-30,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,49,44,49,48,44,56,52,50,54,51,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,49,44,50,56,44,56,52,50,54,52,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,49,44,52,51,51,57,53,50,44,49,44,49,50,52,56,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,49,54,44,54,50,53,53,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,51,56,44,54,50,53,53,54,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,69,8,-100,92,18,48,50,44,50,44,52,51,51,57,53,49,44,50,56,56,44,54,50,54,48,53,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,50,44,49,44,52,51,51,57,53,50,44,57,44,56,49,49,57,48,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-71,-28,-10,-24,5,32,-71,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,50,52,44,56,49,49,57,49,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-71,-28,-10,-24,5,32,-71,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,50,56,44,49,53,52,55,50,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-24,-28,-10,-24,5,32,-24,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,54,54,44,49,53,52,55,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-24,-28,-10,-24,5,32,-24,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,52,48,44,55,48,54,55,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,54,50,44,55,48,54,55,53,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,34,69,8,-100,92,18,48,49,44,50,44,52,51,51,57,53,49,44,49,54,57,44,55,48,55,55,49,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,42,23,67,117,115,116,111,109,32,80,104,111,110,101,97,114,109,101,97,98,105,45,118,55,97,50,7,65,110,100,114,111,105,100,66,2,50,54,74,5,122,104,95,67,78,80,0,50,6,8,-119,-91,-39,-40,5]
+
+retval: 493188750
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.genSignature
+
+*** entered com.tencent.mm.protocal.l$d.dmr
+
+retval: 0
+
+*** exiting com.tencent.mm.protocal.l$d.dmr
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+arg[0]: [8,38,16,28,24,3,34,-70,10,8,-56,-73,-20,-58,5,58,18,97,110,100,114,111,105,100,45,71,101,110,121,109,111,116,105,111,110,16,-68,-120,-128,-72,2,24,1,34,67,8,-100,92,18,46,50,44,49,44,52,51,51,57,53,49,44,51,57,44,57,48,55,52,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,49,44,52,51,51,57,53,49,44,54,51,44,57,48,55,56,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,50,44,52,51,51,57,53,49,44,55,56,44,57,49,54,50,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-18,-32,-10,-24,5,32,-18,-32,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,49,44,51,53,44,57,55,56,56,49,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-97,-30,-10,-24,5,32,-97,-30,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,49,44,55,55,44,57,55,56,56,51,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-97,-30,-10,-24,5,32,-97,-30,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,49,44,49,48,44,56,52,50,54,51,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,49,44,50,56,44,56,52,50,54,52,44,52,51,51,57,53,49,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,49,44,49,44,52,51,51,57,53,50,44,49,44,49,50,52,56,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-99,-28,-10,-24,5,32,-99,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,49,54,44,54,50,53,53,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,51,56,44,54,50,53,53,54,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,69,8,-100,92,18,48,50,44,50,44,52,51,51,57,53,49,44,50,56,56,44,54,50,54,48,53,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-80,-28,-10,-24,5,32,-80,-28,-10,-24,5,40,1,48,0,34,67,8,-100,92,18,46,50,44,49,44,52,51,51,57,53,50,44,57,44,56,49,49,57,48,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-71,-28,-10,-24,5,32,-71,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,50,52,44,56,49,49,57,49,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-71,-28,-10,-24,5,32,-71,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,50,56,44,49,53,52,55,50,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-24,-28,-10,-24,5,32,-24,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,54,54,44,49,53,52,55,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-24,-28,-10,-24,5,32,-24,-28,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,50,44,49,44,52,51,51,57,53,50,44,52,48,44,55,48,54,55,52,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,34,68,8,-100,92,18,47,49,44,49,44,52,51,51,57,53,50,44,54,50,44,55,48,54,55,53,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,34,69,8,-100,92,18,48,49,44,50,44,52,51,51,57,53,49,44,49,54,57,44,55,48,55,55,49,44,52,51,51,57,53,50,44,49,52,57,48,55,53,52,53,48,52,44,54,53,52,51,49,50,53,48,56,24,-68,-27,-10,-24,5,32,-68,-27,-10,-24,5,40,1,48,0,42,23,67,117,115,116,111,109,32,80,104,111,110,101,97,114,109,101,97,98,105,45,118,55,97,50,7,65,110,100,114,111,105,100,66,2,50,54,74,5,122,104,95,67,78,80,0,50,6,8,-119,-91,-39,-40,5]

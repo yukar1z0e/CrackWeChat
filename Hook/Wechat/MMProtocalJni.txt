@@ -1,0 +1,413 @@
+first entering selector
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.pack [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packDoubleHybrid [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybrid [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybridEcdh [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.unpack [1 overload(s)]
+first entering selector
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.pack [1 overload(s)]
+java
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,16,1,26,13,8,9,18,9,8,1,18,5,8,1,16,-3,2,34,18,9,0,0,0,0,0,64,85,-64,17,0,0,0,0,0,64,-113,-64,40,1]
+arg[1]: com.tencent.mm.pointers.PByteArray@434ad6c
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3c6b6","$weakRef":17}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 558
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 34152480
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+Tracing com.tencent.mm.protocal.MMProtocalJni.packDoubleHybrid [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybrid [1 overload(s)]
+java
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,13,10,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,1,48,3]
+arg[1]: com.tencent.mm.pointers.PByteArray@5cfb8cf
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3d436","$weakRef":23}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 106
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 1182473979
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [8,1,18,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,16,56,0,66,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@36daa8c
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3d062","$weakRef":29}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 1071
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 122882627
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybridEcdh [1 overload(s)]
+java
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,0,26,19,119,120,105,100,95,112,98,108,51,116,119,57,99,113,97,100,98,50,50,32,0,40,0,48,0,56,0,64,0,74,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@48c2d4e
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3db7a","$weakRef":35}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 273
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: -179887203
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,2,8,0,16,-121,-128,16,26,-105,2,8,-111,2,18,-111,2,8,32,18,8,8,1,16,-21,-76,-20,-64,2,18,8,8,2,16,-11,-76,-20,-64,2,18,8,8,3,16,-23,-76,-20,-64,2,18,8,8,4,16,-56,-97,-36,-64,2,18,8,8,5,16,-56,-97,-36,-64,2,18,8,8,7,16,-48,-125,-30,-64,2,18,8,8,8,16,-100,-17,-22,-64,2,18,8,8,9,16,-28,-76,-20,-64,2,18,4,8,10,16,0,18,8,8,11,16,-47,-76,-20,-64,2,18,8,8,13,16,-56,-97,-36,-64,2,18,8,8,14,16,-56,-97,-36,-64,2,18,8,8,16,16,-56,-97,-36,-64,2,18,8,8,17,16,-56,-97,-36,-64,2,18,4,8,101,16,0,18,4,8,102,16,0,18,4,8,103,16,0,18,4,8,104,16,0,18,4,8,105,16,0,18,4,8,107,16,0,18,4,8,108,16,0,18,4,8,109,16,0,18,4,8,111,16,0,18,4,8,112,16,0,18,4,8,114,16,0,18,9,8,-55,1,16,-42,-126,-9,-24,5,18,9,8,-53,1,16,-2,-103,-10,-24,5,18,5,8,-52,1,16,0,18,5,8,-51,1,16,0,18,9,8,-24,7,16,-56,-29,-10,-24,5,18,9,8,-23,7,16,-55,-27,-10,-24,5,18,9,8,-47,15,16,-105,-82,-10,-24,5,32,3,42,10,97,110,100,114,111,105,100,45,50,54,48,1]
+arg[1]: com.tencent.mm.pointers.PByteArray@8e5c630
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3dcd6","$weakRef":41}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 138
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 673864453
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,8,8,-111,-78,-17,-26,5,16,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@a2cc9f
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3dd52","$weakRef":47}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 914
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: -1706418650
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+Tracing com.tencent.mm.protocal.MMProtocalJni.unpack [1 overload(s)]
+first entering selector
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.pack [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packDoubleHybrid [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybrid [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.packHybridEcdh [1 overload(s)]
+java
+Tracing com.tencent.mm.protocal.MMProtocalJni.unpack [1 overload(s)]
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,13,10,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,1,48,3]
+arg[1]: com.tencent.mm.pointers.PByteArray@3888b12
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3e4b6","$weakRef":17}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 106
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 1182473979
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@fe9f4e0
+Transfer Object to JSON
+arg[0]: {"$handle":"0x3e442","$weakRef":22}
+arg[1]: [object Object]
+Transfer Object to JSON
+arg[1]: [-65,-107,95,0,0,0,0,88,-37,27,-56,-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0,106,-26,5,-99,4,0,0,0,-1,0,0,-90,38,91,-81,-97,28,8,110,-78,-109,85,116,76,-59,59,59,-119,27,33,46,-30,23,99,-47,17,50,46,-66,-57,126,-22,-61,-19,-60,53,42,22,-115,125,72,25,-124,-92,-67,25,-115,-66,109,-10,-25,-57,-81,60,126,-60,5,-71,34,-125,-4,-17,-32,-125,48,82,-65,-24,74,-100,101,-36,-8,1,18,35,33,41,51,-76,-105,-44,71,-17,26,-80,-12,-4,21,-107,-9,39,-78,17,-22,17,70,99,-42,120,19,-45,-8,125,10,118,75,-42,-29,77,-63,63,76,-112,-17,70,-116,15,-86,59,-79,21,38,-47,26,1,-10,100,-54,24,-111,-72,8,-87,-34,35,105,-23,-122,97,-16,-113,117,-127,-7,86,55,89,-118,28,-57,-30,-61,-88,41,-67,-128,93,-15,-27,-27,-72,-55,45,22,16,82,-28,54,-24,-111,14,-109,-21,-90,-26,57,-104,102,42,18,11,-36,14,13,20,-56,-35,-63,66,69,-44,88,-28,-78,-33,-45,-64,-106,85,71,-104,-78,-124,-16,-2,1,45,90,117,-68,-52,106,55,28,-77,-89,-9,66,35,104,-97,-82,-90,12,-93,-95,-5,43,61,-100,46,-100,-52,-47,-30,101,-52,-8,66,-14,-80,-71,2,46,-84,57,-116,99,-78,90,31,116,39,87,13,-31,108,-5,-100,-97,117,103,72,-22,-18,-81,30,-24,-26,-115,-104,36,13,91,96,21,48,-12,-126,103,49,19,-86,-91,-68,111,-27,-80,-86,-48,-90,56,-99,-3,-83,68,-84,20,93,8,89,125,51,-72,-27,8,-50,2,80,103,88,-3,73,-96,95,26,-45,33,31,-10,119,-25,125,59,106,9,100,-109,43,49,-121,124,-100,-109,35,7,-84,-57,-95,-72,-14,-8,105,119,66,73,-3,48,82,-18,-66,40,126,-124,-11,-102,-120,-103,-26,71,-79,-72,-68,67,80,51,-78,-47,-53,80,90,112,86,-3,-83,-27,24,48,124,88,90,-78,55,87,85,86,71,-11,-110,-69,88,28,30,63,-103,111,29,115,-124,59,44,-73,-110,-57,-43,-27,-13,-87,-67,-110,-111,-115,87,-17,26,14,34,40,-94,-18,-17,-43,-99,-53,124,70,-118,-18,98,-10,36,50,101,-66,-30,124,37,-125,88,-117,93,120,125,-63,63,14,111,15,34,89,-39,-123,22,125,59,-75,76,15,86,114,100,-16,20,7,-81,85,-86,87,34,-99,-65,106,-88,30,-125,-70,107,-64,-114,3,-7,41,67,-31,-37,-27,-99,-109,-53,-3,121,-58,-94,107,-60,-124,-125,101,69,87,42,113,-106,67,-110,111,35,-50,-57,-12,17,-53,-72,-20,49,-74,-75,-98,-10,-95,76,84,103,-54,113,40,3,-47,88,99,89,69,-39,-43,-62,-50,-39,6,107,68,87,-127,6,-10]
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: com.tencent.mm.pointers.PByteArray@479b399
+Transfer Object to JSON
+arg[3]: {"$handle":"0x3e412","$weakRef":25}
+arg[4]: com.tencent.mm.pointers.PInt@de0465e
+Transfer Object to JSON
+arg[4]: {"$handle":"0x3e406","$weakRef":28}
+arg[5]: com.tencent.mm.pointers.PInt@8a2ca3f
+Transfer Object to JSON
+arg[5]: {"$handle":"0x3e3e2","$weakRef":29}
+arg[6]: com.tencent.mm.pointers.PInt@2a97f0c
+Transfer Object to JSON
+arg[6]: {"$handle":"0x3e3d2","$weakRef":30}
+arg[7]: com.tencent.mm.pointers.PInt@628f055
+Transfer Object to JSON
+arg[7]: {"$handle":"0x3e3c2","$weakRef":31}
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.unpack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [8,1,18,11,49,57,57,50,49,56,54,55,57,52,56,24,0,40,16,56,0,66,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@6a8c12f
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3e372","$weakRef":33}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 1071
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: 122882627
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@e26421a
+Transfer Object to JSON
+arg[0]: {"$handle":"0x3e322","$weakRef":38}
+arg[1]: [object Object]
+Transfer Object to JSON
+arg[1]: [-65,-110,95,0,0,0,0,88,-37,27,-56,-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0,-81,8,8,8,0,0,0,-1,0,0,108,-90,-11,-121,126,109,-14,-74,-75,73,41,109,-4,91,110,28]
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: com.tencent.mm.pointers.PByteArray@88a414b
+Transfer Object to JSON
+arg[3]: {"$handle":"0x3e2f2","$weakRef":41}
+arg[4]: com.tencent.mm.pointers.PInt@dc4d728
+Transfer Object to JSON
+arg[4]: {"$handle":"0x3e2e2","$weakRef":42}
+arg[5]: com.tencent.mm.pointers.PInt@74dfc41
+Transfer Object to JSON
+arg[5]: {"$handle":"0x3e2d2","$weakRef":43}
+arg[6]: com.tencent.mm.pointers.PInt@a5665e6
+Transfer Object to JSON
+arg[6]: {"$handle":"0x3e2c2","$weakRef":44}
+arg[7]: com.tencent.mm.pointers.PInt@fb9a727
+Transfer Object to JSON
+arg[7]: {"$handle":"0x3e2b2","$weakRef":45}
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.unpack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.pack
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: [10,62,10,16,63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101,16,-56,-73,-20,-58,5,26,16,65,52,48,102,53,101,102,49,54,98,52,101,55,53,102,0,32,-68,-120,-128,-72,2,42,10,97,110,100,114,111,105,100,45,50,54,48,0,18,0,26,19,119,120,105,100,95,112,98,108,51,116,119,57,99,113,97,100,98,50,50,32,0,40,0,48,0,56,0,64,0,74,0]
+arg[1]: com.tencent.mm.pointers.PByteArray@87e52e7
+Transfer Object to JSON
+arg[1]: {"$handle":"0x3e212","$weakRef":47}
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: 0
+arg[4]: [object Object]
+Transfer Object to JSON
+arg[4]: [-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0]
+arg[5]: A40f5ef16b4e75f9
+arg[6]: 1490754504
+arg[7]: 273
+arg[8]: 0
+arg[9]: [object Object]
+Transfer Object to JSON
+arg[9]: []
+arg[10]: [object Object]
+Transfer Object to JSON
+arg[10]: []
+arg[11]: -179887203
+arg[12]: 7
+arg[13]: 0
+
+retval: true
+
+*** exiting com.tencent.mm.protocal.MMProtocalJni.pack
+
+*** entered com.tencent.mm.protocal.MMProtocalJni.unpack
+
+arg[0]: com.tencent.mm.pointers.PByteArray@fe63263
+Transfer Object to JSON
+arg[0]: {"$handle":"0x3e282","$weakRef":52}
+arg[1]: [object Object]
+Transfer Object to JSON
+arg[1]: [-65,-110,95,0,0,0,0,88,-37,27,-56,-83,2,8,2,0,0,0,0,40,-79,125,-8,111,-28,0,-111,2,16,16,0,0,0,-1,0,0,77,86,-74,11,125,36,17,86,105,15,47,-29,-22,-63,34,-128,-42,-38,51,-5,-3,41,-119,59,48,-81,-29,97,-22,-9,100,-31]
+arg[2]: [object Object]
+Transfer Object to JSON
+arg[2]: [63,123,106,105,106,77,100,101,70,57,98,72,48,88,90,101]
+arg[3]: com.tencent.mm.pointers.PByteArray@c258adb
+Transfer Object to JSON
+arg[3]: {"$handle":"0x3e1ea","$weakRef":55}
+arg[4]: com.tencent.mm.pointers.PInt@cad0978
+Transfer Object to JSON
+arg[4]: {"$handle":"0x3e1b6","$weakRef":56}
+arg[5]: com.tencent.mm.pointers.PInt@95fc851
+Transfer Object to JSON
+arg[5]: {"$handle":"0x3e1a6","$weakRef":57}

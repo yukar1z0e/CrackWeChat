@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# PDF&APK&ZIP
+*.ZIP
+*.zip
+*.PDF
+*.pdf
+*.APK
+*.apk
+*.7z
