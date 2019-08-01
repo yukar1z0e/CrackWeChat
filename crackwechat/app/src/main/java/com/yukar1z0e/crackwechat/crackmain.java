@@ -27,6 +27,18 @@ public class crackmain implements IXposedHookLoadPackage{
         if (lpparam.packageName.contains("com.tencent.mm")){
             Log.d("Begin","Xposed Hooked--->"+lpparam.packageName);
 
+            //勾取类
+            final Class<?> FTSAddFriendUIClass=lpparam.classLoader.loadClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI");
+
+            //Hook FTSAssFriendUI.Mf
+            findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("FTSAddFriendUI","Mf--->"+param.args[0].toString());
+                }
+            });
+
         }
     }
 }
