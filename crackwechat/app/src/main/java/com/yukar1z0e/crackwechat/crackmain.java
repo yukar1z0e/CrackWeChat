@@ -36,6 +36,7 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> FTSAddFriendUI$5Class=lpparam.classLoader.loadClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5");
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
             final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
+            final Class<?> ContactInfoUIClass=lpparam.classLoader.loadClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI");
 
             //微信号 但是一下会把所有人的打出来
             findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
@@ -78,14 +79,21 @@ public class crackmain implements IXposedHookLoadPackage{
                         @Override
                         public void run(){
                             Log.d("FTSAddFriendUI","重载run");
-                            setObjectField(param.thisObject,"query"," ");
-                            callMethod(param.thisObject,"Mf"," ");
+                            setObjectField(param.thisObject,"query","dsf");
+                            callMethod(param.thisObject,"Mf","dsf");
                         }
                     },2000);
                 }
             });
 
-
+            //Hook ContactInfoUI.onCreate
+            findAndHookMethod(ContactInfoUIClass, "onCreate",Bundle.class,new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(final MethodHookParam param)throws Throwable{
+                    Log.d("ContactInfoUI","--->"+param.args[0]);
+                    throw new NullPointerException();
+                }
+            });
         }
     }
 }
