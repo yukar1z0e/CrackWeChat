@@ -89,20 +89,31 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //Hook ContactInfoUI.initView
-            findAndHookMethod(ContactInfoUIClass, "initView",new XC_MethodHook() {
+            //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
+            //微信号
+            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
-                protected void beforeHookedMethod(final MethodHookParam param)throws Throwable{
-                    Log.d("ContactInfoUI","init contact info view");
-                }
-                @Override
-                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
-                    Field field_username=findField(findClass("com.tencent.mm.g.c.ao",lpparam.classLoader),"field_username");
-                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
-                    Object adObject=findClass("com.tencent.mm.storage.ad",lpparam.classLoader);
-                    Log.d("ContactInfoUI","username--->"+field_username.get(dUUField.get(adObject)));
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","微信号为--->"+param.args[0]);
                 }
             });
+            //备注
+            findAndHookMethod(aoClass, "ic", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","ic--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "m3if", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","m3if--->"+param.args[0]);
+                }
+            });
+
+
+
         }
     }
 }
