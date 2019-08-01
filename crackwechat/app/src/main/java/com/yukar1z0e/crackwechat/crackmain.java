@@ -37,6 +37,14 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
             final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
 
+            //微信号 但是一下会把所有人的打出来
+            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","微信号为--->"+param.args[0]);
+                }
+            });
+
             //Hook FTSAddFriendUI.Mf
             findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
                 @Override
@@ -76,27 +84,6 @@ public class crackmain implements IXposedHookLoadPackage{
                     },2000);
                 }
             });
-
-            findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
-                @Override
-                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    super.afterHookedMethod(param);
-                    //微信号
-                    findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
-                        @Override
-                        protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                            Log.d("ao","微信号为--->"+param.args[0]);
-                        }
-                    });
-                }
-            });
-
-
-
-
-
-
-
 
 
         }
