@@ -1,5 +1,6 @@
 package com.yukar1z0e.crackwechat;
 
+import android.os.Handler;
 import android.util.Log;
 import android.view.View;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import android.view.MotionEvent;
 import java.util.Collections;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.util.concurrent.RunnableFuture;
 
 import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.XC_MethodHook;
@@ -46,7 +48,17 @@ public class crackmain implements IXposedHookLoadPackage{
                     super.beforeHookedMethod(param);
                     Log.d("FTSAddFriendUI","勾取到了onCreate");
                 }
-
+                @Override
+                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                    Log.d("FTSAddFriendUI","Try Call Mf Method");
+                    new Handler().postDelayed(new Runnable() {
+                        @Override
+                        public void run(){
+                            Log.d("FTSAddFriendUI","重载run");
+                            callMethod(param.thisObject,"Mf","【嘻嘻】");
+                        }
+                    },2000);
+                }
             });
 
         }
