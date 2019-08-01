@@ -36,8 +36,6 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> FTSAddFriendUI$5Class=lpparam.classLoader.loadClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5");
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
             final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
-            final Class<?> aClass=lpparam.classLoader.loadClass("com.tencent.mm.pluginsdk.ui.applet.a");
-
 
             //Hook FTSAddFriendUI.Mf
             findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
@@ -79,36 +77,15 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            /*//微信号------把所有人的都打出来了。。。
+            //微信号------把所有人的都打出来了。。。
             findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     Log.d("ao","微信号为--->"+param.args[0]);
                 }
-            });*/
-
-            findAndHookMethod(aClass,"a",String.class, LinkedList.class, boolean.class, String.class, new XC_MethodHook(){
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param)throws Throwable{
-                    Log.d("a","--->"+param.args[0]+"--->"+param.args[1]+"--->"+param.args[2]+"--->"+param.args[3]);
-                }
-                @Override
-                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
-                    Log.d("a","after");
-                    Log.d("a","GetDataClass--uzK=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzK").get(param.thisObject) +
-                            "--uzL=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzL").get(param.thisObject) +
-                            "--oXa=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "oXa").get(param.thisObject) +
-                            "--uzG=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzG").get(param.thisObject) +
-                            "--uzI=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzI").get(param.thisObject) +
-                            "--mdP=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "mdP").get(param.thisObject) +
-                            "--hPC=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "hPC").get(param.thisObject) +
-                            "--uzJ=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzJ").get(param.thisObject) +
-                            "--uzN=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzN").get(param.thisObject) +
-                            "--chatroomName=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "chatroomName").get(param.thisObject) +
-                            "--jyu=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "jyu").get(param.thisObject)
-                    );
-                }
             });
+
+
 
 
 
