@@ -39,6 +39,16 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
+            //Hook FTSAssFriendUI.onCreate
+            findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("FTSAddFriendUI","勾取到了onCreate");
+                }
+
+            });
+
         }
     }
 }
