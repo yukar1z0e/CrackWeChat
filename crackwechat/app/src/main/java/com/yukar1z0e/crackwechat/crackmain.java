@@ -77,13 +77,21 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //微信号------把所有人的都打出来了。。。
-            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+            findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
                 @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    Log.d("ao","微信号为--->"+param.args[0]);
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    super.afterHookedMethod(param);
+                    //微信号
+                    findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+                        @Override
+                        protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                            Log.d("ao","微信号为--->"+param.args[0]);
+                        }
+                    });
                 }
             });
+
+
 
 
 
