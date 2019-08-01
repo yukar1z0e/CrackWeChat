@@ -170,7 +170,7 @@ setTimeout(function () {
     Java.perform(function () {
 
         console.log("first entering selector");
-        trace("com.tencent.mm.g.c.bj.Hl");
+        trace("com.tencent.mm.g.c");
         // trace("android.content.ContentValues.put");
         //trace("exports:*!open*");
         //trace("exports:*!write*");

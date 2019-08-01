@@ -10,6 +10,7 @@ import android.view.MotionEvent;
 import java.util.Collections;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.util.LinkedList;
 import java.util.concurrent.RunnableFuture;
 
 import de.robv.android.xposed.XposedBridge;
@@ -19,6 +20,7 @@ import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
 import static de.robv.android.xposed.XposedHelpers.callMethod;
+import static de.robv.android.xposed.XposedHelpers.setObjectField;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 import static de.robv.android.xposed.XposedHelpers.findAndHookConstructor;
 
@@ -33,6 +35,8 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> FTSAddFriendUIClass=lpparam.classLoader.loadClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI");
             final Class<?> FTSAddFriendUI$5Class=lpparam.classLoader.loadClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5");
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
+            final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
+            final Class<?> aClass=lpparam.classLoader.loadClass("com.tencent.mm.pluginsdk.ui.applet.a");
 
 
             //Hook FTSAddFriendUI.Mf
@@ -68,24 +72,35 @@ public class crackmain implements IXposedHookLoadPackage{
                         @Override
                         public void run(){
                             Log.d("FTSAddFriendUI","重载run");
-                            XposedHelpers.setObjectField(param.thisObject,"query","{}");
+                            setObjectField(param.thisObject,"query","{}");
                             callMethod(param.thisObject,"Mf","{}");
                         }
                     },2000);
-                    Object obj=XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader).newInstance();
-                    Log.d("FTSAddFriendUI","GetDataClass--uzK=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzK").get(obj) +
-                            "--uzL=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzL").get(obj) +
-                            "--oXa=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "oXa").get(obj) +
-                            "--uzG=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzG").get(obj) +
-                            "--uzI=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzI").get(obj) +
-                            "--mdP=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "mdP").get(obj) +
-                            "--hPC=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "hPC").get(obj) +
-                            "--uzJ=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzJ").get(obj) +
-                            "--uzN=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "uzN").get(obj) +
-                            "--jyu=" + XposedHelpers.findField(XposedHelpers.findClass("com.tencent.mm.pluginsdk.ui.applet.a", lpparam.classLoader), "jyu").get(obj)
-                    );
                 }
             });
+
+            //微信号------把所有人的都打出来了。。。
+            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","微信号为--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aClass,"a",String.class, LinkedList.class, boolean.class, String.class, new XC_MethodHook(){
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param)throws Throwable{
+                    Log.d("a","--->"+param.args[0]+"--->"+param.args[1]+"--->"+param.args[2]+"--->"+param.args[3]);
+                }
+                @Override
+                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
+                    Log.d("a","after");
+                }
+            });
+
+
+
+
 
         }
     }
