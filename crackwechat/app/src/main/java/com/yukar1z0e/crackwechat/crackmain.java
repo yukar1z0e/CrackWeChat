@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.view.MotionEvent;
 
+import java.text.Format;
 import java.util.Collections;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -19,6 +20,8 @@ import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
+import static de.robv.android.xposed.XposedHelpers.findClass;
+import static de.robv.android.xposed.XposedHelpers.findField;
 import static de.robv.android.xposed.XposedHelpers.callMethod;
 import static de.robv.android.xposed.XposedHelpers.setObjectField;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
@@ -79,19 +82,25 @@ public class crackmain implements IXposedHookLoadPackage{
                         @Override
                         public void run(){
                             Log.d("FTSAddFriendUI","重载run");
-                            setObjectField(param.thisObject,"query","dsf");
-                            callMethod(param.thisObject,"Mf","dsf");
+                            setObjectField(param.thisObject,"query"," ");
+                            callMethod(param.thisObject,"Mf"," ");
                         }
                     },2000);
                 }
             });
 
-            //Hook ContactInfoUI.onCreate
-            findAndHookMethod(ContactInfoUIClass, "onCreate",Bundle.class,new XC_MethodHook() {
+            //Hook ContactInfoUI.initView
+            findAndHookMethod(ContactInfoUIClass, "initView",new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(final MethodHookParam param)throws Throwable{
-                    Log.d("ContactInfoUI","--->"+param.args[0]);
-                    throw new NullPointerException();
+                    Log.d("ContactInfoUI","init contact info view");
+                }
+                @Override
+                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                    Field field_username=findField(findClass("com.tencent.mm.g.c.ao",lpparam.classLoader),"field_username");
+                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
+                    Object adObject=findClass("com.tencent.mm.storage.ad",lpparam.classLoader);
+                    Log.d("ContactInfoUI","username--->"+field_username.get(dUUField.get(adObject)));
                 }
             });
         }
