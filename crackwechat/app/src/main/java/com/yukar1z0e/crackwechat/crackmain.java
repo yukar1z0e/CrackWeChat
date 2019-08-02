@@ -112,6 +112,77 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
+            findAndHookMethod(aoClass, "ig", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","ig--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "ij", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","ij--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "ip", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","ip--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "iq", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","iq--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "ir", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","ir--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "is", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","is--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "it", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","it--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "iu", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","iu--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "iu", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","iu--->"+param.args[0]);
+                }
+            });
+
+            findAndHookMethod(aoClass, "iv", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ao","iv--->"+param.args[0]);
+                }
+            });
+
+
 
 
         }
