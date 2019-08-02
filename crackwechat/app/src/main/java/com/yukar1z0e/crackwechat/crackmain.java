@@ -89,26 +89,18 @@ public class crackmain implements IXposedHookLoadPackage{
                         @Override
                         public void run(){
                             Log.d("FTSAddFriendUI","重载run");
-                            setObjectField(param.thisObject,"query","what the fuck");
-                            callMethod(param.thisObject,"Mf","what the fuck");
+                            setObjectField(param.thisObject,"query","【填写手机号就行】");
+                            callMethod(param.thisObject,"Mf","【填写手机号就行】");
                         }
                     },2000);
                 }
             });
 
-            findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
-                @Override
-                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
-                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
-                    Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
-                    Object dUUObj=dUUField.get(param.thisObject);
-                    Log.d("initView","Object duu--->"+dUUObj.toString());
-                    Log.d("initView","username--->"+findField(aoClass,"field_username").get(dUUObj));
-                }
-            });
-
-
-            /*//建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
+            /*
+            * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
+            * 失败
+             */
+            //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
             //微信号
             findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
@@ -129,7 +121,26 @@ public class crackmain implements IXposedHookLoadPackage{
                     String alias=field_alias.get(param.thisObject).toString();
                     Log.d("ao","alias--->"+alias);
                 }
-            });*/
+            });
+
+            /*
+            * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
+            * 成功
+             */
+            //在初始化view的时候 获取个人信息
+            findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                @Override
+                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
+                    Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
+                    Object dUUObj=dUUField.get(param.thisObject);
+                    Log.d("initView","Object duu--->"+dUUObj.toString());
+                    Log.d("initView","username--->"+findField(aoClass,"field_username").get(dUUObj));
+                }
+            });
+
+
+
 
 
 
