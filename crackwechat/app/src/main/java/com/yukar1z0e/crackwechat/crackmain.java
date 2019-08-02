@@ -52,14 +52,9 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
             final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
             final Class<?> ContactInfoUIClass=lpparam.classLoader.loadClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI");
+            final Class<?> model_cClass=lpparam.classLoader.loadClass("com.tencent.mm.model.c");
+            final Class<?> storage_adClass=lpparam.classLoader.loadClass("com.tencent.mm.storage.ad");
 
-            //微信号 但是一下会把所有人的打出来
-            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    Log.d("ao","微信号为--->"+param.args[0]);
-                }
-            });
 
             //Hook FTSAddFriendUI.Mf
             findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
@@ -101,7 +96,19 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
+            findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                @Override
+                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
+                    Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
+                    Object dUUObj=dUUField.get(param.thisObject);
+                    Log.d("initView","Object duu--->"+dUUObj.toString());
+                    Log.d("initView","username--->"+findField(aoClass,"field_username").get(dUUObj));
+                }
+            });
+
+
+            /*//建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
             //微信号
             findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
@@ -122,7 +129,7 @@ public class crackmain implements IXposedHookLoadPackage{
                     String alias=field_alias.get(param.thisObject).toString();
                     Log.d("ao","alias--->"+alias);
                 }
-            });
+            });*/
 
 
 
