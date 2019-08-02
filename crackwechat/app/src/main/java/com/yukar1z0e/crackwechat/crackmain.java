@@ -52,8 +52,7 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> mClass=lpparam.classLoader.loadClass("com.tencent.mm.ah.m");
             final Class<?> aoClass=lpparam.classLoader.loadClass("com.tencent.mm.g.c.ao");
             final Class<?> ContactInfoUIClass=lpparam.classLoader.loadClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI");
-            final Class<?> model_cClass=lpparam.classLoader.loadClass("com.tencent.mm.model.c");
-            final Class<?> storage_adClass=lpparam.classLoader.loadClass("com.tencent.mm.storage.ad");
+
 
 
             //Hook FTSAddFriendUI.Mf
@@ -89,17 +88,74 @@ public class crackmain implements IXposedHookLoadPackage{
                         @Override
                         public void run(){
                             Log.d("FTSAddFriendUI","重载run");
-                            setObjectField(param.thisObject,"query","【填写手机号就行】");
-                            callMethod(param.thisObject,"Mf","【填写手机号就行】");
+                            setObjectField(param.thisObject,"query"," ");
+                            callMethod(param.thisObject,"Mf"," ");
+
+                            findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                                @Override
+                                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
+                                    //Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
+                                    Object dUUObj=dUUField.get(param.thisObject);
+                                    //Log.d("initView","Object duu--->"+dUUObj.toString());
+
+                                    //Username（微信唯一值）
+                                    Field field_username=findField(aoClass,"field_username");
+                                    Log.d("FTSAddFriendUI/initView","username--->"+field_username.get(dUUObj));
+                                    //Alias（微信号 wxid_/自己修改的）
+                                    Field field_alias=findField(aoClass,"field_alias");
+                                    Log.d("FTSAddFriendUI/initView","alias--->"+field_alias.get(dUUObj));
+                                    //加密的Username
+                                    Field field_encryptUsername=findField(aoClass,"field_encryptUsername");
+                                    Log.d("FTSAddFriendUI/initView","encryptUsername--->"+field_encryptUsername.get(dUUObj));
+                                    //wxid 解密版
+                                    Field field_pyInitial=findField(aoClass,"field_pyInitial");
+                                    Log.d("FTSAddFriendUI/initView","pyInitial--->"+field_pyInitial.get(dUUObj));
+                                    //昵称
+                                    Field field_nickname=findField(aoClass,"field_nickname");
+                                    Log.d("FTSAddFriendUI/initView","nickname--->"+field_nickname.get(dUUObj));
+                                    //地址
+                                    Field field_province=findField(aoClass,"dhK");
+                                    Field field_city=findField(aoClass,"dhL");
+                                    Log.d("FTSAddFriendUI/initView","province--->"+field_province.get(dUUObj)+" city--->"+field_city.get(dUUObj));
+                                    //个性签名
+                                    Field field_signature=findField(aoClass,"signature");
+                                    Log.d("FTSAddFriendUI/initView","signature--->"+field_signature.get(dUUObj));
+                                    //性别 0:没写 1：男 2：女
+                                    Field field_sex=findField(aoClass,"sex");
+                                    Log.d("FTSAddFriendUI/initView","sex--->"+field_sex.get(dUUObj));
+
+
+
+                                    //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
+
+                                    //测试模板
+                                    //Field demo=findField(aoClass,"dhB");
+                                    //Log.d("FTSAddFriendUI/initView","tmp--->"+demo.get(dUUObj));
+
+                                    //返回上一级页面
+                                    Log.d("FTSAddFriendUI/initView", "prepare to destory");
+                                    callMethod(param.thisObject, "onBackPressed");
+
+                                }
+                            });
+
+
+                            //返回上一级页面
+                            callMethod(param.thisObject,"onBackPressed");
+
                         }
                     },2000);
+
                 }
             });
 
+
+
             /*
-            * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
+             * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
             * 失败
-             */
+            */
             //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
             //微信号
             findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
@@ -145,7 +201,7 @@ public class crackmain implements IXposedHookLoadPackage{
                     //加密的Username
                     Field field_encryptUsername=findField(aoClass,"field_encryptUsername");
                     Log.d("initView","encryptUsername--->"+field_encryptUsername.get(dUUObj));
-                    //wxid解密版
+                    //wxid 解密版
                     Field field_pyInitial=findField(aoClass,"field_pyInitial");
                     Log.d("initView","pyInitial--->"+field_pyInitial.get(dUUObj));
                     //昵称
@@ -162,14 +218,15 @@ public class crackmain implements IXposedHookLoadPackage{
                     Field field_sex=findField(aoClass,"sex");
                     Log.d("initView","sex--->"+field_sex.get(dUUObj));
 
-
-                    /*
-                    * 无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
-                     */
+                    //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
                     //测试模板
                     Field demo=findField(aoClass,"dhB");
                     Log.d("initView","tmp--->"+demo.get(dUUObj));
 
+
+                    //返回页面
+                    Log.d("initView", "prepare to destory");
+                    callMethod(param.thisObject, "onBackPressed");
 
                 }
             });
