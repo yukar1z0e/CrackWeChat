@@ -132,10 +132,45 @@ public class crackmain implements IXposedHookLoadPackage{
                 @Override
                 protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
                     Field dUUField=findField(param.thisObject.getClass(),"dUU");
-                    Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
+                    //Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
                     Object dUUObj=dUUField.get(param.thisObject);
-                    Log.d("initView","Object duu--->"+dUUObj.toString());
-                    Log.d("initView","username--->"+findField(aoClass,"field_username").get(dUUObj));
+                    //Log.d("initView","Object duu--->"+dUUObj.toString());
+
+                    //Username（微信唯一值）
+                    Field field_username=findField(aoClass,"field_username");
+                    Log.d("initView","username--->"+field_username.get(dUUObj));
+                    //Alias（微信号 wxid_/自己修改的）
+                    Field field_alias=findField(aoClass,"field_alias");
+                    Log.d("initView","alias--->"+field_alias.get(dUUObj));
+                    //加密的Username
+                    Field field_encryptUsername=findField(aoClass,"field_encryptUsername");
+                    Log.d("initView","encryptUsername--->"+field_encryptUsername.get(dUUObj));
+                    //wxid解密版
+                    Field field_pyInitial=findField(aoClass,"field_pyInitial");
+                    Log.d("initView","pyInitial--->"+field_pyInitial.get(dUUObj));
+                    //昵称
+                    Field field_nickname=findField(aoClass,"field_nickname");
+                    Log.d("initView","nickname--->"+field_nickname.get(dUUObj));
+                    //地址
+                    Field field_province=findField(aoClass,"dhK");
+                    Field field_city=findField(aoClass,"dhL");
+                    Log.d("initView","province--->"+field_province.get(dUUObj)+" city--->"+field_city.get(dUUObj));
+                    //个性签名
+                    Field field_signature=findField(aoClass,"signature");
+                    Log.d("initView","signature--->"+field_signature.get(dUUObj));
+                    //性别 0:没写 1：男 2：女
+                    Field field_sex=findField(aoClass,"sex");
+                    Log.d("initView","sex--->"+field_sex.get(dUUObj));
+
+
+                    /*
+                    * 无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
+                     */
+                    //测试模板
+                    Field demo=findField(aoClass,"dhB");
+                    Log.d("initView","tmp--->"+demo.get(dUUObj));
+
+
                 }
             });
 
