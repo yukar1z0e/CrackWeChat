@@ -91,6 +91,8 @@ public class crackmain implements IXposedHookLoadPackage{
                             setObjectField(param.thisObject,"query"," ");
                             callMethod(param.thisObject,"Mf"," ");
 
+
+                            /*//获取个人信息
                             findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
                                 @Override
                                 protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
@@ -125,10 +127,7 @@ public class crackmain implements IXposedHookLoadPackage{
                                     Field field_sex=findField(aoClass,"sex");
                                     Log.d("FTSAddFriendUI/initView","sex--->"+field_sex.get(dUUObj));
 
-
-
                                     //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
-
                                     //测试模板
                                     //Field demo=findField(aoClass,"dhB");
                                     //Log.d("FTSAddFriendUI/initView","tmp--->"+demo.get(dUUObj));
@@ -136,10 +135,9 @@ public class crackmain implements IXposedHookLoadPackage{
                                     //返回上一级页面
                                     Log.d("FTSAddFriendUI/initView", "prepare to destory");
                                     callMethod(param.thisObject, "onBackPressed");
-
                                 }
                             });
-
+*/
 
                             //返回上一级页面
                             callMethod(param.thisObject,"onBackPressed");
@@ -220,22 +218,14 @@ public class crackmain implements IXposedHookLoadPackage{
 
                     //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
                     //测试模板
-                    Field demo=findField(aoClass,"dhB");
-                    Log.d("initView","tmp--->"+demo.get(dUUObj));
-
+                    //Field demo=findField(aoClass,"dhB");
+                    //Log.d("initView","tmp--->"+demo.get(dUUObj));
 
                     //返回页面
                     Log.d("initView", "prepare to destory");
                     callMethod(param.thisObject, "onBackPressed");
-
                 }
             });
-
-
-
-
-
-
 
         }
     }
