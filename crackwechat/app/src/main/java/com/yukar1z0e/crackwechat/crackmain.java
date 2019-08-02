@@ -156,7 +156,7 @@ public class crackmain implements IXposedHookLoadPackage{
             */
             //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
             //微信号
-            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+            /*findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     Log.d("ao","微信号为--->"+param.args[0]);
@@ -175,7 +175,7 @@ public class crackmain implements IXposedHookLoadPackage{
                     String alias=field_alias.get(param.thisObject).toString();
                     Log.d("ao","alias--->"+alias);
                 }
-            });
+            });*/
 
             /*
             * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
