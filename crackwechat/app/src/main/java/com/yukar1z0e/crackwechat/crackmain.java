@@ -30,6 +30,9 @@ import static de.robv.android.xposed.XposedHelpers.findAndHookConstructor;
 public class crackmain implements IXposedHookLoadPackage{
     @Override
     public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam)throws Throwable{
+
+        final String phoneNumber=" ";
+
         Log.d("Begin","Test Xposed--->"+lpparam.packageName);
         if (lpparam.packageName.contains("com.tencent.mm")){
             Log.d("Begin","Xposed Hooked--->"+lpparam.packageName);
@@ -73,26 +76,29 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //Hook FTSAssFriendUI.onCreate
-            findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    super.beforeHookedMethod(param);
-                    Log.d("FTSAddFriendUI","勾取到了onCreate");
-                }
-                @Override
-                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
-                    Log.d("FTSAddFriendUI","Try Call Mf Method");
-                    Log.d("FTSAddFriendUI","--->"+XposedHelpers.findField(FTSAddFriendUIClass,"query").get(param.thisObject));
-                    new Handler().postDelayed(new Runnable() {
-                        @Override
-                        public void run(){
-                            Log.d("FTSAddFriendUI","重载run");
-                            setObjectField(param.thisObject,"query"," ");
-                            callMethod(param.thisObject,"Mf"," ");
+            for(int i=0;i<=5;i++) {
+                Log.d("FTSAddFriendUI/initView","this is the "+i+" time of hook");
 
+                //Hook FTSAddFriendUI.onCreate
+                findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                    @Override
+                    protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                        super.beforeHookedMethod(param);
+                        Log.d("FTSAddFriendUI", "勾取到了onCreate");
+                    }
 
-                            /*//获取个人信息
+                    @Override
+                    protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+                        Log.d("FTSAddFriendUI", "Try Call Mf Method");
+                        Log.d("FTSAddFriendUI", "--->" + XposedHelpers.findField(FTSAddFriendUIClass, "query").get(param.thisObject));
+                        new Handler().postDelayed(new Runnable() {
+                            @Override
+                            public void run() {
+                                Log.d("FTSAddFriendUI", "重载run");
+                                setObjectField(param.thisObject, "query", phoneNumber);
+                                callMethod(param.thisObject, "Mf", phoneNumber);
+
+                            //获取个人信息
                             findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
                                 @Override
                                 protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
@@ -137,25 +143,24 @@ public class crackmain implements IXposedHookLoadPackage{
                                     callMethod(param.thisObject, "onBackPressed");
                                 }
                             });
-*/
 
-                            //返回上一级页面
-                            callMethod(param.thisObject,"onBackPressed");
+                                //返回上一级页面
+                                callMethod(param.thisObject, "onBackPressed");
 
-                        }
-                    },2000);
+                            }
+                        }, 2000);
 
-                }
-            });
-
+                    }
+                });
 
 
-            /*
-             * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
-            * 失败
-            */
-            //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
-            //微信号
+
+                /*
+                 * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
+                 * 失败
+                 */
+                //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
+                //微信号
             /*findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
@@ -177,55 +182,57 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });*/
 
-            /*
-            * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
-            * 成功
-             */
-            //在初始化view的时候 获取个人信息
-            findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
-                @Override
-                protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
-                    Field dUUField=findField(param.thisObject.getClass(),"dUU");
-                    //Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
-                    Object dUUObj=dUUField.get(param.thisObject);
-                    //Log.d("initView","Object duu--->"+dUUObj.toString());
+                /*
+                 * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
+                 * 成功
+                 */
+                //在初始化view的时候 获取个人信息
+                findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                    @Override
+                    protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+                        Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                        //Log.d("initView","dUU--->"+dUUField.getName()+"--->type"+dUUField.getType());
+                        Object dUUObj = dUUField.get(param.thisObject);
+                        //Log.d("initView","Object duu--->"+dUUObj.toString());
 
-                    //Username（微信唯一值）
-                    Field field_username=findField(aoClass,"field_username");
-                    Log.d("initView","username--->"+field_username.get(dUUObj));
-                    //Alias（微信号 wxid_/自己修改的）
-                    Field field_alias=findField(aoClass,"field_alias");
-                    Log.d("initView","alias--->"+field_alias.get(dUUObj));
-                    //加密的Username
-                    Field field_encryptUsername=findField(aoClass,"field_encryptUsername");
-                    Log.d("initView","encryptUsername--->"+field_encryptUsername.get(dUUObj));
-                    //wxid 解密版
-                    Field field_pyInitial=findField(aoClass,"field_pyInitial");
-                    Log.d("initView","pyInitial--->"+field_pyInitial.get(dUUObj));
-                    //昵称
-                    Field field_nickname=findField(aoClass,"field_nickname");
-                    Log.d("initView","nickname--->"+field_nickname.get(dUUObj));
-                    //地址
-                    Field field_province=findField(aoClass,"dhK");
-                    Field field_city=findField(aoClass,"dhL");
-                    Log.d("initView","province--->"+field_province.get(dUUObj)+" city--->"+field_city.get(dUUObj));
-                    //个性签名
-                    Field field_signature=findField(aoClass,"signature");
-                    Log.d("initView","signature--->"+field_signature.get(dUUObj));
-                    //性别 0:没写 1：男 2：女
-                    Field field_sex=findField(aoClass,"sex");
-                    Log.d("initView","sex--->"+field_sex.get(dUUObj));
+                        //Username（微信唯一值）
+                        Field field_username = findField(aoClass, "field_username");
+                        Log.d("initView", "username--->" + field_username.get(dUUObj));
+                        //Alias（微信号 wxid_/自己修改的）
+                        Field field_alias = findField(aoClass, "field_alias");
+                        Log.d("initView", "alias--->" + field_alias.get(dUUObj));
+                        //加密的Username
+                        Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                        Log.d("initView", "encryptUsername--->" + field_encryptUsername.get(dUUObj));
+                        //wxid 解密版
+                        Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                        Log.d("initView", "pyInitial--->" + field_pyInitial.get(dUUObj));
+                        //昵称
+                        Field field_nickname = findField(aoClass, "field_nickname");
+                        Log.d("initView", "nickname--->" + field_nickname.get(dUUObj));
+                        //地址
+                        Field field_province = findField(aoClass, "dhK");
+                        Field field_city = findField(aoClass, "dhL");
+                        Log.d("initView", "province--->" + field_province.get(dUUObj) + " city--->" + field_city.get(dUUObj));
+                        //个性签名
+                        Field field_signature = findField(aoClass, "signature");
+                        Log.d("initView", "signature--->" + field_signature.get(dUUObj));
+                        //性别 0:没写 1：男 2：女
+                        Field field_sex = findField(aoClass, "sex");
+                        Log.d("initView", "sex--->" + field_sex.get(dUUObj));
 
-                    //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
-                    //测试模板
-                    //Field demo=findField(aoClass,"dhB");
-                    //Log.d("initView","tmp--->"+demo.get(dUUObj));
+                        //无用信息 dic、field_conRemark、field_descWordingId、field_domainList、field_openImAppid、dhB...还有一大帮不想试了
+                        //测试模板
+                        //Field demo=findField(aoClass,"dhB");
+                        //Log.d("initView","tmp--->"+demo.get(dUUObj));
 
-                    //返回页面
-                    Log.d("initView", "prepare to destory");
-                    callMethod(param.thisObject, "onBackPressed");
-                }
-            });
+                        //返回页面
+                        Log.d("initView", "prepare to destory");
+                        callMethod(param.thisObject, "onBackPressed");
+                    }
+                });
+
+            }
 
         }
     }
