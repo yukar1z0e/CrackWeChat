@@ -47,11 +47,9 @@ public class crackmain implements IXposedHookLoadPackage {
                     String[] phoneNumbers = {};
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumbers[0]);
-                    TimeUnit.SECONDS.sleep(2);
                     crackWechat(phoneNumbers[1]);
-                    TimeUnit.SECONDS.sleep(2);
 //                    crackWechat(phoneNumbers[2]);
-//                    TimeUnit.SECONDS.sleep(2);
+
                 }
             });
 
