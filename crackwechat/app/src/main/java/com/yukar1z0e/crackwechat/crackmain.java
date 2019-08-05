@@ -44,10 +44,10 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumbers = {};
+                    String[] phoneNumbers = {"19921867948","13024661647"};
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumbers[0]);
-                    crackWechat(phoneNumbers[1]);
+//                    crackWechat(phoneNumbers[1]);
 //                    crackWechat(phoneNumbers[2]);
 
                 }
@@ -59,7 +59,7 @@ public class crackmain implements IXposedHookLoadPackage {
 
 
     private void crackWechat(String phoneNumbers) {
-        final String phoneNumberout=phoneNumbers;
+        final String phoneNumber=phoneNumbers;
         Log.d("CrackMain","phoneNumber: "+phoneNumber);
         //Xposed 检测
         XposedHelpers.findAndHookMethod("com.tencent.mm.app.t", lpparam.classLoader, "a", StackTraceElement[].class, new XC_MethodHook() {
@@ -107,7 +107,6 @@ public class crackmain implements IXposedHookLoadPackage {
 
         //Hook FTSAddFriendUI.onCreate
         findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
-            final String phoneNumber=phoneNumberout;
             @Override
             protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                 super.beforeHookedMethod(param);
@@ -180,7 +179,7 @@ public class crackmain implements IXposedHookLoadPackage {
                             protected void afterHookedMethod(MethodHookParam param) throws Throwable {
                                 Log.d("ContactInfoUI","Call onCreate Method");
 
-                                callMethod(param.thisObject, "onBackPressed");
+                                //callMethod(param.thisObject, "onBackPressed");
                             }
                         });
 
@@ -188,7 +187,7 @@ public class crackmain implements IXposedHookLoadPackage {
                 }, 2000);
 
                 //返回上一级页面
-                callMethod(param.thisObject, "onBackPressed");
+                //callMethod(param.thisObject, "onBackPressed");
             }
         });
 
