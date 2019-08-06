@@ -41,11 +41,10 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumber = {"13024661647","19921867948"};
+                    String[] phoneNumber = {"手机号"};
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumber[0]);
-                    crackWechat(phoneNumber[1]);
-//                    crackWechat(phoneNumbers[2]);
+//                    crackWechat(phoneNumber[1]);
                 }
             });
         }
@@ -164,92 +163,53 @@ public class crackmain implements IXposedHookLoadPackage {
         });*/
 
         //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
-//        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
-//            @Override
-//            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-//                Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
-//
-//                    findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
-//                        /*@Override
-//                        protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-//                            Log.d("CrackMain","Before onBackPressed");
-//
-//                             // dUUField: dUU的反射
-//                             // dUUObj： dUU的实例
-//                             // Username（微信唯一值）
-//                             // Alias: 微信号 wxid_/自己修改的）
-//                             // EncryptUsername: 加密的Username
-//                             // pyInitial: wxid 解密版
-//                             // Nickname: 昵称
-//                             // dhK、dhL： 省、市（地址）
-//                             // Signature： 个性签名
-//                             // Sex： 性别 0:没写 1：男 2：女
-//
-//                            Field dUUField = findField(param.thisObject.getClass(), "dUU");
-//                            Object dUUObj = dUUField.get(param.thisObject);
-//                            Field field_username = findField(aoClass, "field_username");
-//                            Field field_alias = findField(aoClass, "field_alias");
-//                            Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
-//                            Field field_pyInitial = findField(aoClass, "field_pyInitial");
-//                            Field field_nickname = findField(aoClass, "field_nickname");
-//                            Field field_province = findField(aoClass, "dhK");
-//                            Field field_city = findField(aoClass, "dhL");
-//                            Field field_signature = findField(aoClass, "signature");
-//                            Field field_sex = findField(aoClass, "sex");
-//
-//                            Log.d("CrackMain",
-//                                    "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
-//                                            " Alias: " + field_alias.get(dUUObj)+
-//                                            " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
-//                                            " PyInitial: " + field_pyInitial.get(dUUObj)+
-//                                            " Nickname: " + field_nickname.get(dUUObj)+
-//                                            " Province: " + field_province.get(dUUObj) +
-//                                            " City: " + field_city.get(dUUObj)+
-//                                            " Signature: " + field_signature.get(dUUObj)+
-//                                            " Sex: " + field_sex.get(dUUObj));
-//                        }*/
-//                        @Override
-//                        protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-//                            /* *
-//                             * dUUField: dUU的反射
-//                             * dUUObj： dUU的实例
-//                             * Username（微信唯一值）
-//                             * Alias: 微信号 wxid_/自己修改的）
-//                             * EncryptUsername: 加密的Username
-//                             * pyInitial: wxid 解密版
-//                             * Nickname: 昵称
-//                             * dhK、dhL： 省、市（地址）
-//                             * Signature： 个性签名
-//                             * Sex： 性别 0:没写 1：男 2：女
-//                             * */
-//                            Field dUUField = findField(param.thisObject.getClass(), "dUU");
-//                            Object dUUObj = dUUField.get(param.thisObject);
-//                            Field field_username = findField(aoClass, "field_username");
-//                            Field field_alias = findField(aoClass, "field_alias");
-//                            Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
-//                            Field field_pyInitial = findField(aoClass, "field_pyInitial");
-//                            Field field_nickname = findField(aoClass, "field_nickname");
-//                            Field field_province = findField(aoClass, "dhK");
-//                            Field field_city = findField(aoClass, "dhL");
-//                            Field field_signature = findField(aoClass, "signature");
-//                            Field field_sex = findField(aoClass, "sex");
-//
-//                            Log.d("CrackMain",
-//                                    "After onBackPressed "+" Username: " + field_username.get(dUUObj)+
-//                                            " Alias: " + field_alias.get(dUUObj)+
-//                                            " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
-//                                            " PyInitial: " + field_pyInitial.get(dUUObj)+
-//                                            " Nickname: " + field_nickname.get(dUUObj)+
-//                                            " Province: " + field_province.get(dUUObj) +
-//                                            " City: " + field_city.get(dUUObj)+
-//                                            " Signature: " + field_signature.get(dUUObj)+
-//                                            " Sex: " + field_sex.get(dUUObj));
-//                        }
-//                    });
-//                callMethod(param.thisObject, "onBackPressed");
-//            }
-//        });
+        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            @Override
+            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
 
+                    findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
+                        @Override
+                        protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                            /* *
+                             * dUUField: dUU的反射
+                             * dUUObj： dUU的实例
+                             * Username（微信唯一值）
+                             * Alias: 微信号 wxid_/自己修改的）
+                             * EncryptUsername: 加密的Username
+                             * pyInitial: wxid 解密版
+                             * Nickname: 昵称
+                             * dhK、dhL： 省、市（地址）
+                             * Signature： 个性签名
+                             * Sex： 性别 0:没写 1：男 2：女
+                             * */
+                            Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                            Object dUUObj = dUUField.get(param.thisObject);
+                            Field field_username = findField(aoClass, "field_username");
+                            Field field_alias = findField(aoClass, "field_alias");
+                            Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                            Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                            Field field_nickname = findField(aoClass, "field_nickname");
+                            Field field_province = findField(aoClass, "dhK");
+                            Field field_city = findField(aoClass, "dhL");
+                            Field field_signature = findField(aoClass, "signature");
+                            Field field_sex = findField(aoClass, "sex");
 
+                            Log.d("CrackMain",
+                                    "After onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                            " Alias: " + field_alias.get(dUUObj)+
+                                            " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                            " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                            " Nickname: " + field_nickname.get(dUUObj)+
+                                            " Province: " + field_province.get(dUUObj) +
+                                            " City: " + field_city.get(dUUObj)+
+                                            " Signature: " + field_signature.get(dUUObj)+
+                                            " Sex: " + field_sex.get(dUUObj));
+                        }
+                    });
+
+                callMethod(param.thisObject, "onBackPressed");
+            }
+        });
     }
 }
