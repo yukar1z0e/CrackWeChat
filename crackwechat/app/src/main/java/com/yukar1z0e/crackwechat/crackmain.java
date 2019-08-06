@@ -44,7 +44,7 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumbers = {" "};
+                    String[] phoneNumbers = {""};
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumbers[0]);
 //                    crackWechat(phoneNumbers[1]);
@@ -77,8 +77,8 @@ public class crackmain implements IXposedHookLoadPackage {
         final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
         final Class<?> FTSAddFriendUI$5Class = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5", lpparam.classLoader);
         final Class<?> mClass = findClass("com.tencent.mm.ah.m", lpparam.classLoader);
-        //final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
-        //final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+        final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
+        final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
 
 
         //Hook FTSAddFriendUI.Mf
@@ -129,60 +129,60 @@ public class crackmain implements IXposedHookLoadPackage {
                          * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
                          * 成功
                          */
-//                        //在初始化view的时候 获取个人信息
-//                        findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
-//                            @Override
-//                            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
-//                                //返回页面
-//                                Log.d("CrackMain", "prepare to destory");
-//
-//                                /* *
-//                                 * dUUField: dUU的反射
-//                                 * dUUObj： dUU的实例
-//                                 * Username（微信唯一值）
-//                                 * Alias: 微信号 wxid_/自己修改的）
-//                                 * EncryptUsername: 加密的Username
-//                                 * pyInitial: wxid 解密版
-//                                 * Nickname: 昵称
-//                                 * dhK、dhL： 省、市（地址）
-//                                 * Signature： 个性签名
-//                                 * Sex： 性别 0:没写 1：男 2：女
-//                                 * */
-//                                Field dUUField = findField(param.thisObject.getClass(), "dUU");
-//                                Object dUUObj = dUUField.get(param.thisObject);
-//                                Field field_username = findField(aoClass, "field_username");
-//                                Field field_alias = findField(aoClass, "field_alias");
-//                                Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
-//                                Field field_pyInitial = findField(aoClass, "field_pyInitial");
-//                                Field field_nickname = findField(aoClass, "field_nickname");
-//                                Field field_province = findField(aoClass, "dhK");
-//                                Field field_city = findField(aoClass, "dhL");
-//                                Field field_signature = findField(aoClass, "signature");
-//                                Field field_sex = findField(aoClass, "sex");
-//
-//                                Log.d("CrackMain",
-//                                        " Username: " + field_username.get(dUUObj)+
-//                                                " Alias: " + field_alias.get(dUUObj)+
-//                                                " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
-//                                                " PyInitial: " + field_pyInitial.get(dUUObj)+
-//                                                " Nickname: " + field_nickname.get(dUUObj)+
-//                                                " Province: " + field_province.get(dUUObj) +
-//                                                " City: " + field_city.get(dUUObj)+
-//                                                " Signature: " + field_signature.get(dUUObj)+
-//                                                " Sex: " + field_sex.get(dUUObj));
-//                            }
-//
-//                        });
-//
-//                        //onCreate
-//                        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
-//                            @Override
-//                            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-//                                Log.d("ContactInfoUI","Call onCreate Method");
-//
-//                                //callMethod(param.thisObject, "onBackPressed");
-//                            }
-//                        });
+                        //在初始化view的时候 获取个人信息
+                        findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                            @Override
+                            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+                                //返回页面
+                                Log.d("CrackMain", "prepare to destory");
+
+                                /* *
+                                 * dUUField: dUU的反射
+                                 * dUUObj： dUU的实例
+                                 * Username（微信唯一值）
+                                 * Alias: 微信号 wxid_/自己修改的）
+                                 * EncryptUsername: 加密的Username
+                                 * pyInitial: wxid 解密版
+                                 * Nickname: 昵称
+                                 * dhK、dhL： 省、市（地址）
+                                 * Signature： 个性签名
+                                 * Sex： 性别 0:没写 1：男 2：女
+                                 * */
+                                Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                                Object dUUObj = dUUField.get(param.thisObject);
+                                Field field_username = findField(aoClass, "field_username");
+                                Field field_alias = findField(aoClass, "field_alias");
+                                Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                                Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                                Field field_nickname = findField(aoClass, "field_nickname");
+                                Field field_province = findField(aoClass, "dhK");
+                                Field field_city = findField(aoClass, "dhL");
+                                Field field_signature = findField(aoClass, "signature");
+                                Field field_sex = findField(aoClass, "sex");
+
+                                Log.d("CrackMain",
+                                        " Username: " + field_username.get(dUUObj)+
+                                                " Alias: " + field_alias.get(dUUObj)+
+                                                " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                                " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                                " Nickname: " + field_nickname.get(dUUObj)+
+                                                " Province: " + field_province.get(dUUObj) +
+                                                " City: " + field_city.get(dUUObj)+
+                                                " Signature: " + field_signature.get(dUUObj)+
+                                                " Sex: " + field_sex.get(dUUObj));
+                            }
+
+                        });
+
+                        //onCreate
+                        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                            @Override
+                            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                                Log.d("ContactInfoUI","Call onCreate Method");
+
+                                //callMethod(param.thisObject, "onBackPressed");
+                            }
+                        });
 
                     }
                 }, 2000);
