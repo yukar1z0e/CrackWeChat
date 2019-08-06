@@ -51,7 +51,6 @@ public class crackmain implements IXposedHookLoadPackage {
         }
     }
 
-
     private void crackWechat(String phoneNumbers) {
         final String phoneNumber=phoneNumbers;
         //Log.d("CrackMain","phoneNumber: "+phoneNumber);
