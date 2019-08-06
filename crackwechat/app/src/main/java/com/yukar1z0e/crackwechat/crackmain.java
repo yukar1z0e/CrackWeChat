@@ -44,16 +44,14 @@ public class crackmain implements IXposedHookLoadPackage {
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumber[0]);
                     getPeerInfo();
-                    crackWechat(phoneNumber[1]);
-                    getPeerInfo();
+                    onClickClearTextBtn();
+//                    crackWechat(phoneNumber[1]);
+//                    getPeerInfo();
                 }
             });
         }
     }
-
-    public void crackWechat(final String phoneNumber) {
-        //final String phoneNumber=phoneNumbers;
-        //Log.d("CrackMain","phoneNumber: "+phoneNumber);
+    public void killXposedTest(){
         //Xposed 检测
         findAndHookMethod("com.tencent.mm.app.t", lpparam.classLoader, "a", StackTraceElement[].class, new XC_MethodHook() {
             @Override
@@ -65,6 +63,13 @@ public class crackmain implements IXposedHookLoadPackage {
                 }
             }
         });
+    }
+
+    public void crackWechat(final String phoneNumber) {
+        //final String phoneNumber=phoneNumbers;
+        //Log.d("CrackMain","phoneNumber: "+phoneNumber);
+        //Xposed 检测
+        killXposedTest();
 
         final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
         final Class<?> FTSAddFriendUI$5Class = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5", lpparam.classLoader);
@@ -114,6 +119,46 @@ public class crackmain implements IXposedHookLoadPackage {
                     }
                 }, 2000);
 
+
+                //查找按钮 没一个是的
+                /*Field meA=findField(param.thisObject.getClass(),"meA");
+                Field meB=findField(param.thisObject.getClass(),"meB");
+                Field mev=findField(param.thisObject.getClass(),"mev");
+                Field mew=findField(param.thisObject.getClass(),"mew");
+                Field mex=findField(param.thisObject.getClass(),"mex");
+                Field mey=findField(param.thisObject.getClass(),"mey");
+                Field mez=findField(param.thisObject.getClass(),"mez");
+                Object meAobj=meA.get(param.thisObject);
+                Log.d("CrackMain","meA "+meAobj.toString());
+                Object meBobj=meB.get(param.thisObject);
+                Log.d("CrackMain","meB "+meBobj.toString());
+                Object mevobj=mev.get(param.thisObject);
+                Log.d("CrackMain","mev "+mevobj.toString());
+                Object mewobj=mew.get(param.thisObject);
+                Log.d("CrackMain","mew "+mewobj.toString());
+                Object mexobj=mex.get(param.thisObject);
+                Log.d("CrackMain","mex "+mexobj.toString());
+                Object meyobj=mey.get(param.thisObject);
+                Log.d("CrackMain","meA "+meyobj.toString());
+                Object mezobj=mez.get(param.thisObject);
+                Log.d("CrackMain","mez "+mezobj.toString());
+
+                Field meC =findField(param.thisObject.getClass(),"meC");
+                Object meCobj=meC.get(param.thisObject);
+                Log.d("CrackMain","meC "+meCobj.toString());
+
+                Field meD=findField(param.thisObject.getClass(),"meD");
+                Field meE=findField(param.thisObject.getClass(),"meE");
+                Field meF=findField(param.thisObject.getClass(),"meF");
+                Field meG=findField(param.thisObject.getClass(),"meG");
+                Field meH=findField(param.thisObject.getClass(),"meH");
+
+                Log.d("CrackMain","meD "+meD.get(param.thisObject).toString());
+                Log.d("CrackMain","meE "+meE.get(param.thisObject).toString());
+                Log.d("CrackMain","meF "+meF.get(param.thisObject).toString());
+                Log.d("CrackMain","meG "+meG.get(param.thisObject).toString());
+                Log.d("CrackMain","meH "+meH.get(param.thisObject).toString());*/
+
                 //返回上一级页面
                 callMethod(param.thisObject, "onBackPressed");
             }
@@ -121,47 +166,48 @@ public class crackmain implements IXposedHookLoadPackage {
     }
 
 
-    /*
-         * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
-         * 失败
-         */
-        //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
-        //微信号
-            /*findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    Log.d("ao","微信号为--->"+param.args[0]);
-                }
-            });
-            //备注
-            findAndHookMethod(aoClass, "ic", String.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    Log.d("ao","ic--->"+param.args[0]);
-                }
-                @Override
-                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
-                    Field field_alias=aoClass.getDeclaredField("field_username");
-                    field_alias.setAccessible(true);
-                    String alias=field_alias.get(param.thisObject).toString();
-                    Log.d("ao","alias--->"+alias);
-                }
-            });*/
-
-        /*
-         * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
-         * 成功
-         */
-        //在初始化ContactInfoUI view的时候 获取个人信息
-        //显然不能在这个时候 获取个人信息 因为onBackPressed函数退回上一级页面时候还会再调用一次
-        /*findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
-            @Override
-            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
-                //Log.d("CrackMain","调用了initView");
-            }
-        });*/
+//         /*
+//         * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
+//         * 失败
+//         */
+//        //建设性的方法，使用空的微信号哈哈哈哈哈我真的机智
+//        //微信号
+//            findAndHookMethod(aoClass, "ib", String.class, new XC_MethodHook() {
+//                @Override
+//                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+//                    Log.d("ao","微信号为--->"+param.args[0]);
+//                }
+//            });
+//            //备注
+//            findAndHookMethod(aoClass, "ic", String.class, new XC_MethodHook() {
+//                @Override
+//                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+//                    Log.d("ao","ic--->"+param.args[0]);
+//                }
+//                @Override
+//                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
+//                    Field field_alias=aoClass.getDeclaredField("field_username");
+//                    field_alias.setAccessible(true);
+//                    String alias=field_alias.get(param.thisObject).toString();
+//                    Log.d("ao","alias--->"+alias);
+//                }
+//            });
+//
+//        /*
+//         * 全新的思路，反射获取ContactInfoUI的dUU的实例，然后反射获取dUU的field_username实例
+//         * 成功
+//         */
+//        //在初始化ContactInfoUI view的时候 获取个人信息
+//        //显然不能在这个时候 获取个人信息 因为onBackPressed函数退回上一级页面时候还会再调用一次
+//        /*findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+//            @Override
+//            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+//                //Log.d("CrackMain","调用了initView");
+//            }
+//        });*/
 
         public void getPeerInfo(){
+            killXposedTest();
 
             final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
             final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
@@ -211,10 +257,23 @@ public class crackmain implements IXposedHookLoadPackage {
                                             " Sex: " + field_sex.get(dUUObj));
                         }
                     });
-
                     callMethod(param.thisObject, "onBackPressed");
                 }
             });
+        }
+
+        public void onClickClearTextBtn(){
+            killXposedTest();
+
+            final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+
+            findAndHookMethod(FTSAddFriendUIClass, "onClickClearTextBtn", View.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("CrackMain","调用了onClickTextBtn "+param.args[0]);
+                }
+            });
+
         }
 
 }
