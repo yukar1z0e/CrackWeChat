@@ -18,7 +18,6 @@ import java.util.concurrent.RunnableFuture;
 import java.util.concurrent.TimeUnit;
 
 import de.robv.android.xposed.XC_MethodHook;
-import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
@@ -41,10 +40,12 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumber = {"手机号"};
+                    String[] phoneNumber = {"13024661647",""};
                     lpparam=loadPackageParam;
                     crackWechat(phoneNumber[0]);
-//                    crackWechat(phoneNumber[1]);
+                    getPeerInfo();
+                    crackWechat(phoneNumber[1]);
+                    getPeerInfo();
                 }
             });
         }
@@ -65,13 +66,9 @@ public class crackmain implements IXposedHookLoadPackage {
             }
         });
 
-        //勾取类
         final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
         final Class<?> FTSAddFriendUI$5Class = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5", lpparam.classLoader);
         final Class<?> mClass = findClass("com.tencent.mm.ah.m", lpparam.classLoader);
-        final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
-        final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
-
 
         //Hook FTSAddFriendUI.Mf
         /*findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
@@ -121,8 +118,10 @@ public class crackmain implements IXposedHookLoadPackage {
                 callMethod(param.thisObject, "onBackPressed");
             }
         });
+    }
 
-        /*
+
+    /*
          * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
          * 失败
          */
@@ -162,15 +161,20 @@ public class crackmain implements IXposedHookLoadPackage {
             }
         });*/
 
-        //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
-        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
-            @Override
-            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
+        public void getPeerInfo(){
+
+            final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
+            final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+
+            //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
+            findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                @Override
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
 
                     findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
                         @Override
-                        protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                        protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                             /* *
                              * dUUField: dUU的反射
                              * dUUObj： dUU的实例
@@ -196,7 +200,7 @@ public class crackmain implements IXposedHookLoadPackage {
                             Field field_sex = findField(aoClass, "sex");
 
                             Log.d("CrackMain",
-                                    "After onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                    "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
                                             " Alias: " + field_alias.get(dUUObj)+
                                             " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
                                             " PyInitial: " + field_pyInitial.get(dUUObj)+
@@ -208,8 +212,9 @@ public class crackmain implements IXposedHookLoadPackage {
                         }
                     });
 
-                callMethod(param.thisObject, "onBackPressed");
-            }
-        });
-    }
+                    callMethod(param.thisObject, "onBackPressed");
+                }
+            });
+        }
+
 }
