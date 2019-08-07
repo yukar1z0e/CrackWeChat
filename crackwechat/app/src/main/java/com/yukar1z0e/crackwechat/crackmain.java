@@ -41,19 +41,99 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumber = {"18647145795"," "};
+                    String[] phoneNumber = {"18647145795",""};
                     lpparam=loadPackageParam;
-                    getPeerInfo();
-                    crackWechat(phoneNumber[0]);
-//                    onClickClearTextBtn();
-//                    getPeerInfo();
-                    crackWechat(phoneNumber[1]);
-//                    crackWechat(phoneNumber[2]);
-//                    getPeerInfo();
+
+//                    getInfo();
+//                    queryCheck();
+//                    searchPhone(phoneNumber[0]);
+//                    backContactInfoUI();
+//
+//                    getInfo();
+//                    queryCheck();
+//                    searchPhone(phoneNumber[1]);
+//                    backContactInfoUI();
+
+                    searchInfoAll(phoneNumber[0]);
+                    searchInfoAll(phoneNumber[1]);
+
+
+
                 }
             });
         }
     }
+
+    public void searchInfoAll(final String phoneNumber){
+        killXposedTest();
+
+        final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
+        final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+
+        //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
+        findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(final MethodHookParam param) throws Throwable {
+                super.beforeHookedMethod(param);
+                Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                Object dUUObj = dUUField.get(param.thisObject);
+                Field field_username = findField(aoClass, "field_username");
+                Field field_alias = findField(aoClass, "field_alias");
+                Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                Field field_nickname = findField(aoClass, "field_nickname");
+                Field field_province = findField(aoClass, "dhK");
+                Field field_city = findField(aoClass, "dhL");
+                Field field_signature = findField(aoClass, "signature");
+                Field field_sex = findField(aoClass, "sex");
+                Log.d("CrackMain",
+                        "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                " Alias: " + field_alias.get(dUUObj)+
+                                " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                " Nickname: " + field_nickname.get(dUUObj)+
+                                " Province: " + field_province.get(dUUObj) +
+                                " City: " + field_city.get(dUUObj)+
+                                " Signature: " + field_signature.get(dUUObj)+
+                                " Sex: " + field_sex.get(dUUObj));
+            }
+        });
+        final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+        final Class<?> FTSBaseUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSBaseUI", lpparam.classLoader);
+        //Hook FTSAddFriendUI.onCreate
+        findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(final MethodHookParam param)throws Throwable{
+                super.beforeHookedMethod(param);
+            }
+            @Override
+            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+
+                super.afterHookedMethod(param);
+
+                Log.d("CrackMain", "重载run--->查询的电话号码为 " + phoneNumber);
+
+                findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
+                    @Override
+                    protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                        super.beforeHookedMethod(param);
+                        Field queryField=findField(FTSBaseUIClass,"query");
+                        queryField.setAccessible(true);
+                        queryField.set(param.thisObject,"11111111111");
+                    }
+                });
+                new Handler().postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        callMethod(param.thisObject, "Mf", phoneNumber);
+                    }
+                }, 2000);
+            }
+        });
+        backContactInfoUI();
+
+    }
+    //解决xposed检测
     public void killXposedTest(){
         //Xposed 检测
         findAndHookMethod("com.tencent.mm.app.t", lpparam.classLoader, "a", StackTraceElement[].class, new XC_MethodHook() {
@@ -66,6 +146,143 @@ public class crackmain implements IXposedHookLoadPackage {
                 }
             }
         });
+    }
+
+    //搜索手机
+    public void searchPhone(final String phoneNumber){
+
+        killXposedTest();
+
+        final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+
+        //Hook FTSAddFriendUI.onCreate
+        findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(final MethodHookParam param)throws Throwable{
+                super.beforeHookedMethod(param);
+            }
+            @Override
+            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+
+                super.afterHookedMethod(param);
+
+                Log.d("CrackMain", "重载run--->查询的电话号码为 " + phoneNumber);
+                new Handler().post(new Runnable() {
+                    @Override
+                    public void run() {
+                        callMethod(param.thisObject, "Mf", phoneNumber);
+                    }
+                });
+            }
+        });
+    }
+
+    //解决query验证是否是手机号
+    public void queryCheck(){
+
+        killXposedTest();
+
+        final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+        final Class<?> FTSBaseUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSBaseUI", lpparam.classLoader);
+
+         /*
+         我jio得这是一个bug
+         query的值应该填手机号der
+         然后wx做一个判断，用长度判断它是不是一个手机号，理论上是11位
+         然鹅实际上填10位也阔以der，不过12位就不阔以
+         */
+
+        findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                super.beforeHookedMethod(param);
+                Field queryField=findField(FTSBaseUIClass,"query");
+                queryField.setAccessible(true);
+                queryField.set(param.thisObject,"11111111111");
+            }
+        });
+    }
+
+    //FTSAddFriendUI界面返回
+    public void backFTSAddFriendUI(){
+        final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+        findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            @Override
+            protected void afterHookedMethod(final MethodHookParam param)throws Throwable{
+                super.afterHookedMethod(param);
+                new Handler().post(new Runnable() {
+                    @Override
+                    public void run() {
+                        callMethod(param.thisObject, "onBackPressed");
+                    }
+                });
+            }
+        });
+    }
+
+    //获取搜索结果
+    public void getInfo(){
+        killXposedTest();
+
+        final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
+        final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+
+        //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
+        findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(final MethodHookParam param) throws Throwable {
+                super.beforeHookedMethod(param);
+                /* *
+                 * dUUField: dUU的反射
+                 * dUUObj： dUU的实例
+                 * Username（微信唯一值）
+                 * Alias: 微信号 wxid_/自己修改的）
+                 * EncryptUsername: 加密的Username
+                 * pyInitial: wxid 解密版
+                 * Nickname: 昵称
+                 * dhK、dhL： 省、市（地址）
+                 * Signature： 个性签名
+                 * Sex： 性别 0:没写 1：男 2：女
+                 * */
+
+                Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                Object dUUObj = dUUField.get(param.thisObject);
+                Field field_username = findField(aoClass, "field_username");
+                Field field_alias = findField(aoClass, "field_alias");
+                Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                Field field_nickname = findField(aoClass, "field_nickname");
+                Field field_province = findField(aoClass, "dhK");
+                Field field_city = findField(aoClass, "dhL");
+                Field field_signature = findField(aoClass, "signature");
+                Field field_sex = findField(aoClass, "sex");
+
+                Log.d("CrackMain",
+                        "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                " Alias: " + field_alias.get(dUUObj)+
+                                " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                " Nickname: " + field_nickname.get(dUUObj)+
+                                " Province: " + field_province.get(dUUObj) +
+                                " City: " + field_city.get(dUUObj)+
+                                " Signature: " + field_signature.get(dUUObj)+
+                                " Sex: " + field_sex.get(dUUObj));
+            }
+        });
+    }
+
+    //ContactInfoUI界面返回
+    public void backContactInfoUI(){
+        final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+        findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            @Override
+            protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
+                super.afterHookedMethod(param);
+                callMethod(param.thisObject, "onBackPressed");
+            }
+        });
+
+        backFTSAddFriendUI();
     }
 
     public void crackWechat(final String phoneNumber) {
@@ -122,8 +339,6 @@ public class crackmain implements IXposedHookLoadPackage {
                     }
                 }, 2000);
 
-//                callMethod(param.thisObject, "Mf", phoneNumber);
-
                 /*
                 我jio得这是一个bug
                 query的值应该填手机号der
@@ -144,52 +359,31 @@ public class crackmain implements IXposedHookLoadPackage {
                     }
                 });
 
-
-                //查找按钮 没一个是的
-                /*Field meA=findField(param.thisObject.getClass(),"meA");
-                Field meB=findField(param.thisObject.getClass(),"meB");
-                Field mev=findField(param.thisObject.getClass(),"mev");
-                Field mew=findField(param.thisObject.getClass(),"mew");
-                Field mex=findField(param.thisObject.getClass(),"mex");
-                Field mey=findField(param.thisObject.getClass(),"mey");
-                Field mez=findField(param.thisObject.getClass(),"mez");
-                Object meAobj=meA.get(param.thisObject);
-                Log.d("CrackMain","meA "+meAobj.toString());
-                Object meBobj=meB.get(param.thisObject);
-                Log.d("CrackMain","meB "+meBobj.toString());
-                Object mevobj=mev.get(param.thisObject);
-                Log.d("CrackMain","mev "+mevobj.toString());
-                Object mewobj=mew.get(param.thisObject);
-                Log.d("CrackMain","mew "+mewobj.toString());
-                Object mexobj=mex.get(param.thisObject);
-                Log.d("CrackMain","mex "+mexobj.toString());
-                Object meyobj=mey.get(param.thisObject);
-                Log.d("CrackMain","meA "+meyobj.toString());
-                Object mezobj=mez.get(param.thisObject);
-                Log.d("CrackMain","mez "+mezobj.toString());
-
-                Field meC =findField(param.thisObject.getClass(),"meC");
-                Object meCobj=meC.get(param.thisObject);
-                Log.d("CrackMain","meC "+meCobj.toString());
-
-                Field meD=findField(param.thisObject.getClass(),"meD");
-                Field meE=findField(param.thisObject.getClass(),"meE");
-                Field meF=findField(param.thisObject.getClass(),"meF");
-                Field meG=findField(param.thisObject.getClass(),"meG");
-                Field meH=findField(param.thisObject.getClass(),"meH");
-
-                Log.d("CrackMain","meD "+meD.get(param.thisObject).toString());
-                Log.d("CrackMain","meE "+meE.get(param.thisObject).toString());
-                Log.d("CrackMain","meF "+meF.get(param.thisObject).toString());
-                Log.d("CrackMain","meG "+meG.get(param.thisObject).toString());
-                Log.d("CrackMain","meH "+meH.get(param.thisObject).toString());*/
-
                 //返回上一级页面
-                callMethod(param.thisObject, "onBackPressed");
+                //callMethod(param.thisObject, "onBackPressed");
+                mbackContactInfoUI();
             }
         });
     }
 
+//    //返回界面
+//    public void backFTSAddFriendUI(){
+//        final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
+//        findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
+//            @Override
+//            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+//                //返回上一级页面
+//                callMethod(param.thisObject, "onBackPressed");
+//            }
+//        });
+//        findAndHookMethod(FTSAddFriendUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+//            @Override
+//            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+//                //返回上一级页面
+//                callMethod(param.thisObject, "onBackPressed");
+//            }
+//        });
+//    }
 
 //         /*
 //         * 毫无用处，全局ao的函数只出始化一遍，然后值便传入field里了
@@ -231,7 +425,7 @@ public class crackmain implements IXposedHookLoadPackage {
 //            }
 //        });*/
 
-        public void getPeerInfo(){
+    public void getPeerInfo(){
             killXposedTest();
 
             final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
@@ -269,55 +463,70 @@ public class crackmain implements IXposedHookLoadPackage {
 
 
             //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
-            findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+            findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+
+                     //* dUUField: dUU的反射
+                     //* dUUObj： dUU的实例
+                     //* Username（微信唯一值）
+                     //* Alias: 微信号 wxid_/自己修改的）
+                     //* EncryptUsername: 加密的Username
+                     //* pyInitial: wxid 解密版
+                     //* Nickname: 昵称
+                     //* dhK、dhL： 省、市（地址）
+                     //* Signature： 个性签名
+                     //* Sex： 性别 0:没写 1：男 2：女
+
+                    Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                    Object dUUObj = dUUField.get(param.thisObject);
+                    Field field_username = findField(aoClass, "field_username");
+                    Field field_alias = findField(aoClass, "field_alias");
+                    Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                    Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                    Field field_nickname = findField(aoClass, "field_nickname");
+                    Field field_province = findField(aoClass, "dhK");
+                    Field field_city = findField(aoClass, "dhL");
+                    Field field_signature = findField(aoClass, "signature");
+                    Field field_sex = findField(aoClass, "sex");
+
+                    Log.d("CrackMain",
+                            "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                    " Alias: " + field_alias.get(dUUObj)+
+                                    " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                    " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                    " Nickname: " + field_nickname.get(dUUObj)+
+                                    " Province: " + field_province.get(dUUObj) +
+                                    " City: " + field_city.get(dUUObj)+
+                                    " Signature: " + field_signature.get(dUUObj)+
+                                    " Sex: " + field_sex.get(dUUObj));
+                }
+            });
+
+            /*findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
                     Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
 
-                    findAndHookMethod(ContactInfoUIClass, "onBackPressed", new XC_MethodHook() {
-                        @Override
-                        protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                            /* *
-                             * dUUField: dUU的反射
-                             * dUUObj： dUU的实例
-                             * Username（微信唯一值）
-                             * Alias: 微信号 wxid_/自己修改的）
-                             * EncryptUsername: 加密的Username
-                             * pyInitial: wxid 解密版
-                             * Nickname: 昵称
-                             * dhK、dhL： 省、市（地址）
-                             * Signature： 个性签名
-                             * Sex： 性别 0:没写 1：男 2：女
-                             * */
-                            Field dUUField = findField(param.thisObject.getClass(), "dUU");
-                            Object dUUObj = dUUField.get(param.thisObject);
-                            Field field_username = findField(aoClass, "field_username");
-                            Field field_alias = findField(aoClass, "field_alias");
-                            Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
-                            Field field_pyInitial = findField(aoClass, "field_pyInitial");
-                            Field field_nickname = findField(aoClass, "field_nickname");
-                            Field field_province = findField(aoClass, "dhK");
-                            Field field_city = findField(aoClass, "dhL");
-                            Field field_signature = findField(aoClass, "signature");
-                            Field field_sex = findField(aoClass, "sex");
+                    callMethod(param.thisObject, "onBackPressed");
+                }
+            });*/
+        }
 
-                            Log.d("CrackMain",
-                                    "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
-                                            " Alias: " + field_alias.get(dUUObj)+
-                                            " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
-                                            " PyInitial: " + field_pyInitial.get(dUUObj)+
-                                            " Nickname: " + field_nickname.get(dUUObj)+
-                                            " Province: " + field_province.get(dUUObj) +
-                                            " City: " + field_city.get(dUUObj)+
-                                            " Signature: " + field_signature.get(dUUObj)+
-                                            " Sex: " + field_sex.get(dUUObj));
-                        }
-                    });
+
+        public void mbackContactInfoUI(){
+            final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+            findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                @Override
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("CrackMain","Hook onCreate() method and call onBackPressed() method");
                     callMethod(param.thisObject, "onBackPressed");
                 }
             });
         }
 
+
+        //Useless
         public void onClickClearTextBtn(){
             killXposedTest();
 
@@ -331,5 +540,7 @@ public class crackmain implements IXposedHookLoadPackage {
             });
 
         }
+
+
 
 }
