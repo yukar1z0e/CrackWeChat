@@ -2,6 +2,7 @@ package com.yukar1z0e.crackwechat;
 
 import android.app.Application;
 import android.content.Context;
+import android.os.FileObserver;
 import android.os.Handler;
 import android.util.Log;
 import android.view.View;
@@ -40,12 +41,14 @@ public class crackmain implements IXposedHookLoadPackage {
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-                    String[] phoneNumber = {"13024661647",""};
+                    String[] phoneNumber = {"18647145795"," "};
                     lpparam=loadPackageParam;
-                    crackWechat(phoneNumber[0]);
                     getPeerInfo();
-                    onClickClearTextBtn();
-//                    crackWechat(phoneNumber[1]);
+                    crackWechat(phoneNumber[0]);
+//                    onClickClearTextBtn();
+//                    getPeerInfo();
+                    crackWechat(phoneNumber[1]);
+//                    crackWechat(phoneNumber[2]);
 //                    getPeerInfo();
                 }
             });
@@ -74,6 +77,7 @@ public class crackmain implements IXposedHookLoadPackage {
         final Class<?> FTSAddFriendUIClass = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI", lpparam.classLoader);
         final Class<?> FTSAddFriendUI$5Class = findClass("com.tencent.mm.plugin.fts.ui.FTSAddFriendUI$5", lpparam.classLoader);
         final Class<?> mClass = findClass("com.tencent.mm.ah.m", lpparam.classLoader);
+        final Class<?> FTSBaseUIClass=findClass("com.tencent.mm.plugin.fts.ui.FTSBaseUI",lpparam.classLoader);
 
         //Hook FTSAddFriendUI.Mf
         /*findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
@@ -110,14 +114,35 @@ public class crackmain implements IXposedHookLoadPackage {
             protected void afterHookedMethod(final MethodHookParam param) throws Throwable {
                 //Log.d("CrackMain", "Try Call Mf Method");
                 //Log.d("CrackMain", "--->" + XposedHelpers.findField(FTSAddFriendUIClass, "query").get(param.thisObject));
+                Log.d("CrackMain", "重载run--->查询的电话号码为 "+phoneNumber);
                 new Handler().postDelayed(new Runnable() {
                     @Override
                     public void run() {
-                        Log.d("CrackMain", "重载run--->查询的电话号码为 "+phoneNumber);
-                        setObjectField(param.thisObject, "query", phoneNumber);
                         callMethod(param.thisObject, "Mf", phoneNumber);
                     }
                 }, 2000);
+
+//                callMethod(param.thisObject, "Mf", phoneNumber);
+
+                /*
+                我jio得这是一个bug
+                query的值应该填手机号der
+                然后wx做一个判断，用长度判断它是不是一个手机号，理论上是11位
+                然鹅实际上填10位也阔以der，不过12位就不阔以
+                */
+                findAndHookMethod(FTSAddFriendUIClass, "Mf", String.class, new XC_MethodHook() {
+                    @Override
+                    protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                        Field queryField=findField(FTSBaseUIClass,"query");
+                        queryField.setAccessible(true);
+                        //String queryVal=(String) queryField.get(param.thisObject);
+                        //Log.d("CrackMain","query--->"+queryVal);
+                        queryField.set(param.thisObject,"11111111111");
+                        //String queryVal2=(String) queryField.get(param.thisObject);
+                        //Log.d("CrackMain","query--->"+queryVal2);
+                        //setObjectField(param.thisObject, "query", phoneNumber);
+                    }
+                });
 
 
                 //查找按钮 没一个是的
@@ -211,6 +236,37 @@ public class crackmain implements IXposedHookLoadPackage {
 
             final Class<?> aoClass = findClass("com.tencent.mm.g.c.ao", lpparam.classLoader);
             final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
+
+            /*findAndHookMethod(ContactInfoUIClass, "initView", new XC_MethodHook() {
+                @Override
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    Field dUUField = findField(param.thisObject.getClass(), "dUU");
+                            Object dUUObj = dUUField.get(param.thisObject);
+                            Field field_username = findField(aoClass, "field_username");
+                            Field field_alias = findField(aoClass, "field_alias");
+                            Field field_encryptUsername = findField(aoClass, "field_encryptUsername");
+                            Field field_pyInitial = findField(aoClass, "field_pyInitial");
+                            Field field_nickname = findField(aoClass, "field_nickname");
+                            Field field_province = findField(aoClass, "dhK");
+                            Field field_city = findField(aoClass, "dhL");
+                            Field field_signature = findField(aoClass, "signature");
+                            Field field_sex = findField(aoClass, "sex");
+
+                            Log.d("CrackMain",
+                                    "Before onBackPressed "+" Username: " + field_username.get(dUUObj)+
+                                            " Alias: " + field_alias.get(dUUObj)+
+                                            " EncryptUsername: " + field_encryptUsername.get(dUUObj)+
+                                            " PyInitial: " + field_pyInitial.get(dUUObj)+
+                                            " Nickname: " + field_nickname.get(dUUObj)+
+                                            " Province: " + field_province.get(dUUObj) +
+                                            " City: " + field_city.get(dUUObj)+
+                                            " Signature: " + field_signature.get(dUUObj)+
+                                            " Sex: " + field_sex.get(dUUObj));
+
+                            callMethod(param.thisObject,"onBackPressed");
+                }
+            });*/
+
 
             //监听ContactInfoUI的onCreate方法，启动完成就调用返回方法,hook onBackPressed 在调用返回的时候拿到联系人信息
             findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {
