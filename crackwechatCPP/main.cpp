@@ -2,6 +2,7 @@
 #include <windows.h>
 
 using namespace std;
+
 void writeReslutToLog(){
     string command="adb logcat CrackMain:D *:S *:W *:E *:F *:S > C:\\Users\\yukar1z0e\\Desktop\\log.logs";
     cout<<command.c_str()<<endl;
