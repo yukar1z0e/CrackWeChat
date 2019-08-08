@@ -33,7 +33,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="&quot;Release V3.0&quot;" />
+    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../crackwechat/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crackwechat/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +99,17 @@
       <option name="presentableId" value="Default" />
       <updated>1565174030398</updated>
       <workItem from="1565174043143" duration="6991000" />
+      <workItem from="1565182282397" duration="69000" />
+      <workItem from="1565226653222" duration="4258000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Release V3.0&quot;">
+      <created>1565182331326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565182331326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

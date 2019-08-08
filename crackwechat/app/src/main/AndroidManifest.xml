@@ -14,7 +14,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="crack potato" />
+            android:value="陌生人手机号获取" />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />
