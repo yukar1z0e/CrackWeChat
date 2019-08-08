@@ -35,9 +35,9 @@ public class crackmain implements IXposedHookLoadPackage {
 
     @Override
     public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam loadPackageParam) throws Throwable {
-        Log.d("Begin", "Test Xposed--->" + loadPackageParam.packageName);
+        //Log.d("Begin", "Test Xposed--->" + loadPackageParam.packageName);
         if (loadPackageParam.packageName.contains("com.tencent.mm")) {
-            Log.d("Begin", "Xposed Hooked--->" + loadPackageParam.packageName);
+            //Log.d("Begin", "Xposed Hooked--->" + loadPackageParam.packageName);
             findAndHookMethod(Application.class, "attach", Context.class, new XC_MethodHook() {
                 @Override
                 protected void afterHookedMethod(MethodHookParam param) throws Throwable {
@@ -59,7 +59,7 @@ public class crackmain implements IXposedHookLoadPackage {
             protected void afterHookedMethod(MethodHookParam param) throws Throwable {
                 super.afterHookedMethod(param);
                 if ((Boolean) param.getResult()) {
-                    Log.d("CrackMain", "----检测到xposed");
+                    //Log.d("CrackMain", "----检测到xposed");
                     param.setResult(false);
                 }
             }
@@ -132,11 +132,7 @@ public class crackmain implements IXposedHookLoadPackage {
             @Override
             protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                 super.beforeHookedMethod(param);
-                Log.d("CrackMain",
-                        "r7--->" + param.args[0] +
-                                "->>>r8--->" + param.args[1] +
-                                "->>>r9--->" + param.args[2] +
-                                "->>>r10--->" + param.args[3].toString());
+                Log.d("CrackMain", param.args[2].toString());
             }
         });
     }
@@ -196,15 +192,15 @@ public class crackmain implements IXposedHookLoadPackage {
                 Field field_sex = findField(aoClass, "sex");
 
                 Log.d("CrackMain",
-                        "Before onBackPressed " + " Username: " + field_username.get(dUUObj) +
-                                " Alias: " + field_alias.get(dUUObj) +
-                                " EncryptUsername: " + field_encryptUsername.get(dUUObj) +
-                                " PyInitial: " + field_pyInitial.get(dUUObj) +
-                                " Nickname: " + field_nickname.get(dUUObj) +
-                                " Province: " + field_province.get(dUUObj) +
-                                " City: " + field_city.get(dUUObj) +
-                                " Signature: " + field_signature.get(dUUObj) +
-                                " Sex: " + field_sex.get(dUUObj));
+                         " \n Username: " + field_username.get(dUUObj) +
+                                " \n Alias: " + field_alias.get(dUUObj) +
+                                " \n EncryptUsername: " + field_encryptUsername.get(dUUObj) +
+                                " \n PyInitial: " + field_pyInitial.get(dUUObj) +
+                                " \n Nickname: " + field_nickname.get(dUUObj) +
+                                " \n Province: " + field_province.get(dUUObj) +
+                                " \n City: " + field_city.get(dUUObj) +
+                                " \n Signature: " + field_signature.get(dUUObj) +
+                                " \n Sex: " + field_sex.get(dUUObj));
             }
         });
     }
