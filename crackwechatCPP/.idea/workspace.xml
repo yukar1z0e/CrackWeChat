@@ -33,11 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../crackwechat/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crackwechat/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,7 +96,7 @@
       <updated>1565174030398</updated>
       <workItem from="1565174043143" duration="6991000" />
       <workItem from="1565182282397" duration="69000" />
-      <workItem from="1565226653222" duration="4258000" />
+      <workItem from="1565226653222" duration="4542000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Release V3.0&quot;">
       <created>1565182331326</created>
@@ -109,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565182331326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Fix bugs&quot;">
+      <created>1565232455867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565232455867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +133,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Release V3.0&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Release V3.0&quot;" />
+    <MESSAGE value="&quot;Fix bugs&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Fix bugs&quot;" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
