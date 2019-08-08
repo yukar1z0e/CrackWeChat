@@ -37,7 +37,37 @@ void search(string phoneNumber) {
     cout<<"继续查询"<<endl;
 }
 
+void readFile() {
+    FILE *fid = fopen("C:/Users/yukar1z0e/Desktop/telegram.txt", "r");
+    char line[1024];
+    memset(line, 0, 1024);
+    while (!feof(fid)) {
+        fgets(line, 1024, fid);
+        cout << line << endl;
+    }
+}
+
 int main() {
+    FILE *fid = fopen("C:/Users/yukar1z0e/Desktop/telegram.txt", "r");
+    char line[1024];
+    memset(line, 0, 1024);
+    writeReslutToLog();
+    while (!feof(fid)) {
+        fgets(line, 1024, fid);
+        string phoneNumber = line;
+        if (phoneNumber == "0") {
+            break;
+        }
+        search(phoneNumber);
+    }
+    pullReslut();
+    getResult();
+    cout << "查询结束" << endl;
+    return 0;
+}
+
+
+/*int main() {
     while (true)
     {
         string phoneNumber;
@@ -53,4 +83,4 @@ int main() {
     }
     cout<<"查询结束"<<endl;
     return 0;
-}
+}*/

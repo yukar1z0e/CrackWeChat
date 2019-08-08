@@ -33,7 +33,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="" />
+    <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../crackwechat/app/src/main/java/com/yukar1z0e/crackwechat/crackmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crackwechat/app/src/main/java/com/yukar1z0e/crackwechat/crackmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +101,8 @@
       <workItem from="1565174043143" duration="6991000" />
       <workItem from="1565182282397" duration="69000" />
       <workItem from="1565226653222" duration="4741000" />
+      <workItem from="1565249395545" duration="149000" />
+      <workItem from="1565255416603" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Release V3.0&quot;">
       <created>1565182331326</created>
