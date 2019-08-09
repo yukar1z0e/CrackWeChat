@@ -448,7 +448,7 @@ public class crackmain implements IXposedHookLoadPackage {
                 }
             });*/
     }
-    
+
     public void mbackContactInfoUI() {
         final Class<?> ContactInfoUIClass = findClass("com.tencent.mm.plugin.profile.ui.ContactInfoUI", lpparam.classLoader);
         findAndHookMethod(ContactInfoUIClass, "onCreate", Bundle.class, new XC_MethodHook() {

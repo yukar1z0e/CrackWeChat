@@ -35,8 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../crackwechat/app/src/main/java/com/yukar1z0e/crackwechat/crackmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crackwechat/app/src/main/java/com/yukar1z0e/crackwechat/crackmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +101,7 @@
       <workItem from="1565226653222" duration="4741000" />
       <workItem from="1565249395545" duration="149000" />
       <workItem from="1565255416603" duration="4117000" />
+      <workItem from="1565260889953" duration="269000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Release V3.0&quot;">
       <created>1565182331326</created>
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565232455867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Large Amount Search&quot;">
+      <created>1565261034476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565261034476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Release V3.0&quot;" />
     <MESSAGE value="&quot;Fix bugs&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Fix bugs&quot;" />
+    <MESSAGE value="&quot;Large Amount Search&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Large Amount Search&quot;" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
