@@ -119,16 +119,16 @@ public class crackmain implements IXposedHookLoadPackage {
                 Field field_sex = findField(aoClass, "sex");
 
                 Log.d("CrackMain",
-                        " \n Username: " + field_username.get(dUUObj) +
-                                " \n Alias: " + field_alias.get(dUUObj) +
-                                " \n EncryptUsername: " + field_encryptUsername.get(dUUObj) +
-                                " \n PyInitial: " + field_pyInitial.get(dUUObj) +
-                                " \n Nickname: " + field_nickname.get(dUUObj) +
-                                " \n Province: " + field_province.get(dUUObj) +
-                                " \n City: " + field_city.get(dUUObj) +
-                                " \n Signature: " + field_signature.get(dUUObj) +
-                                " \n Sex: " + field_sex.get(dUUObj)+
-                                "\n结束");
+                        "Username: " + field_username.get(dUUObj) +
+                                ";Alias: " + field_alias.get(dUUObj) +
+                                ";EncryptUsername: " + field_encryptUsername.get(dUUObj) +
+                                ";PyInitial: " + field_pyInitial.get(dUUObj) +
+                                ";Nickname: " + field_nickname.get(dUUObj) +
+                                ";Province: " + field_province.get(dUUObj) +
+                                ";City: " + field_city.get(dUUObj) +
+                                ";Signature: " + field_signature.get(dUUObj) +
+                                ";Sex: " + field_sex.get(dUUObj)+
+                                ";END");
             }
         });
     }
@@ -144,7 +144,7 @@ public class crackmain implements IXposedHookLoadPackage {
             @Override
             protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                 super.beforeHookedMethod(param);
-                Log.d("CrackMain", param.args[2].toString()+"\n哈哈哈");
+                Log.d("CrackMain", param.args[2].toString());
             }
         });
     }
