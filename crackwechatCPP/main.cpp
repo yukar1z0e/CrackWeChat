@@ -28,15 +28,15 @@ void search(string phoneNumber) {
     string command;
     command = "adb shell input text " + phoneNumber;
     system(command.c_str());
-    Sleep(2000);
+    //Sleep(2000);
     command="adb shell input tap 710 205";
     cout << "查询中" << endl;
     system(command.c_str());
-    Sleep(2000);
+    //Sleep(2000);
     command="adb shell input tap 710 95";
     cout << "查询完成" << endl;
     system(command.c_str());
-    Sleep(2000);
+    //Sleep(2000);
     cout<<"继续查询"<<endl;
 }
 
@@ -62,7 +62,7 @@ int main() {
             break;
         }
         search(phoneNumber);
-        Sleep(2000);
+        // Sleep(2000);
     }
     pullReslut();
     getResult();

@@ -34,12 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9126279-f9d4-4701-a0a0-a2dff59d32e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../crackwechat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crackwechat/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,6 +106,8 @@
       <workItem from="1565523770563" duration="937000" />
       <workItem from="1565524986210" duration="13000" />
       <workItem from="1565533582610" duration="1988000" />
+      <workItem from="1565570540640" duration="65000" />
+      <workItem from="1565578008175" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Release V3.0&quot;">
       <created>1565182331326</created>
@@ -133,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565261034476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Sleep and wait&quot;">
+      <created>1565570583712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565570583712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +160,8 @@
     <MESSAGE value="&quot;Release V3.0&quot;" />
     <MESSAGE value="&quot;Fix bugs&quot;" />
     <MESSAGE value="&quot;Large Amount Search&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Large Amount Search&quot;" />
+    <MESSAGE value="&quot;Sleep and wait&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Sleep and wait&quot;" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
