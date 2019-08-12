@@ -10,12 +10,12 @@ void writeReslutToLog(){
 }
 
 void pullReslut() {
-    string command = R"(adb pull /data/local/tmp/logs.txt C:\Users\yukar1z0e\Desktop)";
+    string command = R"(adb pull /data/local/tmp/logs.txt C:\Users\yakum\Desktop)";
     system(command.c_str());
 }
 
 void getResult() {
-    FILE *fid = fopen("C:/Users/yukar1z0e/Desktop/logs.txt", "r");
+    FILE *fid = fopen("C:/Users/yakum/Desktop/logs.txt", "r");
     char line[2048];
     memset(line, 0, 2048);
     while (!feof(fid)) {
@@ -28,17 +28,20 @@ void search(string phoneNumber) {
     string command;
     command = "adb shell input text " + phoneNumber;
     system(command.c_str());
+    Sleep(2000);
     command="adb shell input tap 710 205";
     cout << "查询中" << endl;
     system(command.c_str());
+    Sleep(2000);
     command="adb shell input tap 710 95";
     cout << "查询完成" << endl;
     system(command.c_str());
+    Sleep(2000);
     cout<<"继续查询"<<endl;
 }
 
 void readFile() {
-    FILE *fid = fopen("C:/Users/yukar1z0e/Desktop/telegram.txt", "r");
+    FILE *fid = fopen("C:/Users/yakum/Desktop/telegram.txt", "r");
     char line[1024];
     memset(line, 0, 1024);
     while (!feof(fid)) {
@@ -48,7 +51,7 @@ void readFile() {
 }
 
 int main() {
-    FILE *fid = fopen("C:/Users/yukar1z0e/Desktop/telegram.txt", "r");
+    FILE *fid = fopen("C:/Users/yakum/Desktop/telegram.txt", "r");
     char line[1024];
     memset(line, 0, 1024);
     writeReslutToLog();
@@ -59,6 +62,7 @@ int main() {
             break;
         }
         search(phoneNumber);
+        Sleep(2000);
     }
     pullReslut();
     getResult();
