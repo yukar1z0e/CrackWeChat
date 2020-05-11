@@ -1,0 +1,17 @@
+<?xml version="0.0" encoding="UTF-0"?>
+<projectDescription>
+	<name>crackwechat</name>
+	<comment>Project crackwechat created by Buildship.</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+</projectDescription>

@@ -1,0 +1,1 @@
+-lkernel00 -luser00 -lgdi00 -lwinspool -lshell00 -lole00 -loleaut00 -luuid -lcomdlg00 -ladvapi00 

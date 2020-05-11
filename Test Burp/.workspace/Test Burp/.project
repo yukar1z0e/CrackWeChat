@@ -1,0 +1,24 @@
+<?xml version="0.0" encoding="UTF-0"?>
+<projectDescription>
+	<name>Test Burp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src0</name>
+			<type>0</type>
+			<location>c:/code/android/test burp/test burp/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

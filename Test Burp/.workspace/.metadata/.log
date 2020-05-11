@@ -1,0 +1,10 @@
+!SESSION 0000-00-00 00:00:00.000 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=0.0.0-00
+java.vendor=Microsoft
+BootLoader constants: OS=win00, ARCH=x00_00, WS=win00, NL=zh_CN
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-00000cf0-0000-0000-0000-0000f00000fb
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Code\Android\Test Burp\.workspace javapkgsrv-00000cf0-0000-0000-0000-0000f00000fb
+
+!ENTRY org.eclipse.core.resources 0 00000 0000-00-00 00:00:00.000
+!MESSAGE The workspace will exit with unsaved changes in this session.

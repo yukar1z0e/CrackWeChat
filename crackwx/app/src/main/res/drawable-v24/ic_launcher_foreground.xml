@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="000dp"
+    android:height="000dp"
+    android:viewportWidth="000"
+    android:viewportHeight="000">
+    <path
+        android:fillType="evenOdd"
+        android:pathData="M00,00C00,00 00.00,00.00 00.00,00.00C00.00,00.00 00.00,00.00 00.00,00.00L000.00,00.00L000,000.00L00.00,000.00L00,00Z"
+        android:strokeWidth="0"
+        android:strokeColor="#00000000">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="00.0000"
+                android:endY="00.0000"
+                android:startX="00.0000"
+                android:startY="00.0000"
+                android:type="linear">
+                <item
+                    android:color="#00000000"
+                    android:offset="0.0" />
+                <item
+                    android:color="#00000000"
+                    android:offset="0.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M00.00,00.00L00.00,00.00C00.00,00.00 00,00.00 00,00L00,00C00,00.00 00.00,00.00 00.00,00.00L00.00,00.00C00.00,00.00 00.00,00.0 00.00,00.00C00.00,00.00 00.00,00.00 00.00,00.00L00.00,00.00C00.00,00.00 00.00,00.00 00,00.00C00.00,00.00 00.00,00.00 00.00,00.00L00.00,00.00C00.00,00.00 00.00,00.00 00.00,00.00C00.00,00.0 00.00,00.00 00.00,00.00L00.00,00.00ZM00.00,00.00C00.00,00.00 00,00.00 00,00.00C00,00.00 00.00,00.00 00.00,00.00C00.0,00.00 00.00,00.00 00.00,00.00C00.00,00.00 00.0,00.00 00.00,00.00ZM00.00,00.00C00.0,00.00 00.00,00.00 00.00,00.00C00.00,00.00 00.0,00.00 00.00,00.00C00.00,00.00 00,00.00 00,00.00C00,00.00 00.00,00.00 00.00,00.00Z"
+        android:strokeWidth="0"
+        android:strokeColor="#00000000" />
+</vector>

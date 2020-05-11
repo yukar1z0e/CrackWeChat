@@ -1,0 +1,9 @@
+<?xml version="0.0" encoding="UTF-0"?>
+<project version="0">
+  <component name="ProjectRootManager" version="0" languageLevel="JDK_0_0" project-jdk-name="0.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

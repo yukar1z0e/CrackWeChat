@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 00.00
+# Visual Studio 00
+VisualStudioVersion = 00.0.00000.0
+MinimumVisualStudioVersion = 00.0.00000.0
+Project("{FAE00EC0-000F-00D0-BF0B-00C00F00EFBC}") = "Phoneword", "Phoneword\Phoneword.csproj", "{FC0D0000-000C-000E-0D00-ED000FF00000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0D0000-000C-000E-0D00-ED000FF00000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0D0000-000C-000E-0D00-ED000FF00000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0D0000-000C-000E-0D00-ED000FF00000}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC0D0000-000C-000E-0D00-ED000FF00000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0D0000-000C-000E-0D00-ED000FF00000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

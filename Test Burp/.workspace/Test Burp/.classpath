@@ -1,0 +1,7 @@
+<?xml version="0.0" encoding="UTF-0"?>
+<classpath>
+	<classpathentry kind="src" path="src0"/>
+	<classpathentry kind="lib" path="C:/ProgramData/Microsoft/AndroidSDK/00/platforms/android-00/android.jar"/>
+	<classpathentry kind="lib" path="C:/ProgramData/Microsoft/AndroidSDK/00/extras/android/support/v0/android-support-v0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+﻿<?xml version="0.0" encoding="utf-0"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="0.0" package="Phoneword.Phoneword" android:installLocation="auto" android:versionCode="0">
+	<uses-sdk android:minSdkVersion="00" android:targetSdkVersion="00" />
+	<application android:label="Phoneword" android:icon="@drawable/Icon"></application>
+</manifest>

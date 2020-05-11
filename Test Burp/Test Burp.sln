@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 00.00
+# Visual Studio Version 00
+VisualStudioVersion = 00.0.00000.0
+MinimumVisualStudioVersion = 00.0.00000.0
+Project("{00E0000F-0000-0000-A0E0-000AD0000CE0}") = "Test Burp", "Test Burp\Test Burp.androidproj", "{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM00 = Debug|ARM00
+		Debug|x00 = Debug|x00
+		Debug|x00 = Debug|x00
+		Release|ARM = Release|ARM
+		Release|ARM00 = Release|ARM00
+		Release|x00 = Release|x00
+		Release|x00 = Release|x00
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM.Build.0 = Debug|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM00.ActiveCfg = Debug|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM00.Build.0 = Debug|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|ARM00.Deploy.0 = Debug|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.ActiveCfg = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.Build.0 = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.Deploy.0 = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.ActiveCfg = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.Build.0 = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Debug|x00.Deploy.0 = Debug|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM.ActiveCfg = Release|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM.Build.0 = Release|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM.Deploy.0 = Release|ARM
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM00.ActiveCfg = Release|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM00.Build.0 = Release|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|ARM00.Deploy.0 = Release|ARM00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.ActiveCfg = Release|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.Build.0 = Release|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.Deploy.0 = Release|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.ActiveCfg = Release|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.Build.0 = Release|x00
+		{FEC0B0FB-B0BE-0A00-BCF0-0CB00B0CE0EB}.Release|x00.Deploy.0 = Release|x00
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE00E000-FF0B-000B-0000-00D000C0000A}
+	EndGlobalSection
+EndGlobal

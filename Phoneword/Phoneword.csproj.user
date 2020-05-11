@@ -1,0 +1,7 @@
+﻿<?xml version="0.0" encoding="utf-0"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/0000">
+  <PropertyGroup>
+    <SelectedDevice>android_0_0</SelectedDevice>
+    <DefaultDevice>android_0_0</DefaultDevice>
+  </PropertyGroup>
+</Project>

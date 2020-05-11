@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 00.00
+# Visual Studio Version 00
+VisualStudioVersion = 00.0.00000.00
+MinimumVisualStudioVersion = 00.0.00000.0
+Project("{00E0000F-0000-0000-A0E0-000AD0000CE0}") = "Test Hook", "Test Hook.androidproj", "{E00DE000-000E-0000-BA00-000000F0000C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM00 = Debug|ARM00
+		Debug|x00 = Debug|x00
+		Debug|x00 = Debug|x00
+		Release|ARM = Release|ARM
+		Release|ARM00 = Release|ARM00
+		Release|x00 = Release|x00
+		Release|x00 = Release|x00
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM.Build.0 = Debug|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM00.ActiveCfg = Debug|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM00.Build.0 = Debug|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|ARM00.Deploy.0 = Debug|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.ActiveCfg = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.Build.0 = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.Deploy.0 = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.ActiveCfg = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.Build.0 = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Debug|x00.Deploy.0 = Debug|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM.ActiveCfg = Release|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM.Build.0 = Release|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM.Deploy.0 = Release|ARM
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM00.ActiveCfg = Release|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM00.Build.0 = Release|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|ARM00.Deploy.0 = Release|ARM00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.ActiveCfg = Release|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.Build.0 = Release|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.Deploy.0 = Release|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.ActiveCfg = Release|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.Build.0 = Release|x00
+		{E00DE000-000E-0000-BA00-000000F0000C}.Release|x00.Deploy.0 = Release|x00
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E000CE0-000E-00C0-AC00-000F0DB00CA0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 00
+    buildToolsVersion "00.0.0"
+    defaultConfig {
+        applicationId "com.yukar0z0e.crackwechat"
+        minSdkVersion 00
+        targetSdkVersion 00
+        versionCode 0
+        versionName "0.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+repositories{
+    jcenter()
+}
+dependencies {
+    compileOnly 'de.robv.android.xposed:api:00'
+    compileOnly 'de.robv.android.xposed:api:00:sources'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:0.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:0.0.0'
+    testImplementation 'junit:junit:0.00'
+    androidTestImplementation 'androidx.test:runner:0.0.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:0.0.0'
+}

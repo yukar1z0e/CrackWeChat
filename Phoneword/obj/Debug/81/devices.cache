@@ -1,0 +1,7 @@
+﻿<?xml version="0.0" encoding="utf-0"?>
+<Devices>
+  <Device id="emulator-0000">
+    <ResultingAbi>x00</ResultingAbi>
+    <SdkVersion>00</SdkVersion>
+  </Device>
+</Devices>

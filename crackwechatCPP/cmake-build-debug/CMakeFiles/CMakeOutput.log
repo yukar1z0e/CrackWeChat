@@ -1,0 +1,1155 @@
+The system is: Windows - 00.0.00000 - AMD00
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Files/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/0.00.0/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Files/MinGW/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/0.00.0/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_ca0ea/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_ca0ea.dir\build.make CMakeFiles/cmTC_ca0ea.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building C object CMakeFiles/cmTC_ca0ea.dir/testCCompiler.c.obj
+
+C:\Files\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_ca0ea.dir\testCCompiler.c.obj   -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+
+Linking C executable cmTC_ca0ea.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ca0ea.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ca0ea.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_ca0ea.dir/objects.a @CMakeFiles\cmTC_ca0ea.dir\objects0.rsp
+C:\Files\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_ca0ea.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ca0ea.exe -Wl,--out-implib,libcmTC_ca0ea.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ca0ea.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_00a00/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_00a00.dir\build.make CMakeFiles/cmTC_00a00.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building C object CMakeFiles/cmTC_00a00.dir/CMakeCCompilerABI.c.obj
+
+C:\Files\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj   -c "C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCCompilerABI.c"
+
+Using built-in specs.
+
+COLLECT_GCC=C:\Files\MinGW\bin\gcc.exe
+
+Target: x00_00-w00-mingw00
+
+Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib '
+
+Thread model: posix
+
+gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) 
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/cc0.exe -quiet -v -iprefix C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/ -D_REENTRANT C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core0 -march=nocona -auxbase-strip CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\yakum\AppData\Local\Temp\ccnznTHB.s
+
+GNU C00 (x00_00-posix-sjlj-rev0, Built by Mi0GW-W000project) version 0.0.0 (x00_00-w00-mingw00)
+
+	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP
+
+
+
+GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include"
+
+ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00C:/msys00/mingw00/lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../include"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include"
+
+ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/mingw/include"
+
+#include "..." search starts here:
+
+#include <...> search starts here:
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include
+
+End of search list.
+
+GNU C00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)
+
+	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP
+
+
+
+GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000
+
+Compiler executable checksum: 0d0000000000d0000000e00c0000e000
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/as.exe -v -o CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj C:\Users\yakum\AppData\Local\Temp\ccnznTHB.s
+
+GNU assembler version 0.00 (x00_00-w00-mingw00) using BFD version (GNU Binutils) 0.00
+
+COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../libexec/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/
+
+LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../lib/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona'
+
+Linking C executable cmTC_00a00.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_00a00.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_00a00.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_00a00.dir/objects.a @CMakeFiles\cmTC_00a00.dir\objects0.rsp
+C:\Files\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_00a00.dir/objects.a -Wl,--no-whole-archive  -o cmTC_00a00.exe -Wl,--out-implib,libcmTC_00a00.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Using built-in specs.
+
+COLLECT_GCC=C:\Files\MinGW\bin\gcc.exe
+
+COLLECT_LTO_WRAPPER=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe
+
+Target: x00_00-w00-mingw00
+
+Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib '
+
+Thread model: posix
+
+gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) 
+
+COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../libexec/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/
+
+LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../lib/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../
+00
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00a00.exe' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe -plugin C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll -plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\cc0el0V0.res -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi00 -plugin-opt=-pass-through=-lshell00 -plugin-opt=-pass-through=-luser00 -plugin-opt=-pass-through=-lkernel00 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 -m i000pep -Bdynamic -o cmTC_00a00.exe C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0 -LC:/Files/MinGW/bin/../lib/gcc -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../.. --whole-archive CMakeFiles\cmTC_00a00.dir/objects.a --no-whole-archive --out-implib libcmTC_00a00.dll.a --major-image-version 0 --minor-image-version 0 -lmingw00 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi00 -lshell00 -luser00 -lkernel00 -liconv -lmingw00 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00a00.exe' '-mtune=core0' '-march=nocona'
+
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include]
+  end of search list found
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include] ==> [C:/Files/MinGW/x00_00-w00-mingw00/include]
+  implicit include dirs: [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include;C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed;C:/Files/MinGW/x00_00-w00-mingw00/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect0)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_00a00/fast ]
+  ignore line: [C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_00a00.dir\build.make CMakeFiles/cmTC_00a00.dir/build]
+  ignore line: [mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_00a00.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\Files\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj   -c "C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Files\MinGW\bin\gcc.exe]
+  ignore line: [Target: x00_00-w00-mingw00]
+  ignore line: [Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib ']
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona']
+  ignore line: [ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/cc0.exe -quiet -v -iprefix C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/ -D_REENTRANT C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core0 -march=nocona -auxbase-strip CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\yakum\AppData\Local\Temp\ccnznTHB.s]
+  ignore line: [GNU C00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)]
+  ignore line: [	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include"]
+  ignore line: [ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00C:/msys00/mingw00/lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../include"]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include"]
+  ignore line: [ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/mingw/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)]
+  ignore line: [	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000]
+  ignore line: [Compiler executable checksum: 0d0000000000d0000000e00c0000e000]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona']
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/as.exe -v -o CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj C:\Users\yakum\AppData\Local\Temp\ccnznTHB.s]
+  ignore line: [GNU assembler version 0.00 (x00_00-w00-mingw00) using BFD version (GNU Binutils) 0.00]
+  ignore line: [COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../libexec/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/]
+  ignore line: [LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_00a00.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core0' '-march=nocona']
+  ignore line: [Linking C executable cmTC_00a00.exe]
+  ignore line: ["C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_00a00.dir\link.txt --verbose=0]
+  ignore line: ["C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_00a00.dir/objects.a]
+  ignore line: [C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_00a00.dir/objects.a @CMakeFiles\cmTC_00a00.dir\objects0.rsp]
+  ignore line: [C:\Files\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_00a00.dir/objects.a -Wl,--no-whole-archive  -o cmTC_00a00.exe -Wl,--out-implib,libcmTC_00a00.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Files\MinGW\bin\gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe]
+  ignore line: [Target: x00_00-w00-mingw00]
+  ignore line: [Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib ']
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) ]
+  ignore line: [COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../libexec/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/]
+  ignore line: [LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00a00.exe' '-mtune=core0' '-march=nocona']
+  link line: [ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe -plugin C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll -plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\cc0el0V0.res -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi00 -plugin-opt=-pass-through=-lshell00 -plugin-opt=-pass-through=-luser00 -plugin-opt=-pass-through=-lkernel00 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 -m i000pep -Bdynamic -o cmTC_00a00.exe C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0 -LC:/Files/MinGW/bin/../lib/gcc -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../.. --whole-archive CMakeFiles\cmTC_00a00.dir/objects.a --no-whole-archive --out-implib libcmTC_00a00.dll.a --major-image-version 0 --minor-image-version 0 -lmingw00 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi00 -lshell00 -luser00 -lkernel00 -liconv -lmingw00 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o]
+    arg [C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\cc0el0V0.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingw00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-ladvapi00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lshell00] ==> ignore
+    arg [-plugin-opt=-pass-through=-luser00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lkernel00] ==> ignore
+    arg [-plugin-opt=-pass-through=-liconv] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingw00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+    arg [--sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00] ==> ignore
+    arg [-m] ==> ignore
+    arg [i000pep] ==> ignore0
+    arg [-Bdynamic] ==> ignore00
+    arg [-o] ==> ignore
+    arg [cmTC_00a00.exe] ==> ignore0
+    arg [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o] ==> ignore
+    arg [C:/Files/MinGW/bin/.0/lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o] ==> ignore
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0] ==> dir [C:/Files/MinGW/bin/../lib/0cc/x00_00-w00-mingw00/0.0.0]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc] ==> dir [C:/Files/MinGW/bin/../lib/gcc]0
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-000-mingw00/0.0.0/../../../../x00_00-000-mingw00/lib/../lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../..0../../lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../..0lib]0
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..]
+    arg [--whole-archive] ==> ignore
+    arg [CMakeFiles\cmTC_00a00.dir/objects.a] ==> ignore
+    arg [--no-whole-archive] ==> ignore
+    arg [--out-implib] ==> ignore
+    arg [libcmTC_00a00.dll.a] ==> ignore
+    arg [--major-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [--minor-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [-lmingw00] ==> lib [mingw00]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lgcc_eh] ==> lib [gcc_eh]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ladvapi00] ==> lib [advapi00]
+    arg [-lshell00] ==> lib [shell00]
+    arg [-luser00] ==> lib [user00]
+    arg [-lkernel00] ==> lib [kernel00]
+    arg [-liconv] ==> lib [iconv]
+    arg [-lmingw00] ==> lib [mingw00]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lgcc_eh] ==> lib [gcc_eh]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o] ==> ignore
+  remove lib [gcc_eh]
+  remove lib [msvcrt]
+  remove lib [gcc_eh]
+  remove lib [msvcrt]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc] ==> [C:/Files/MinGW/lib/gcc]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib] ==> [C:/Files/MinGW/x00_00-w00-mingw00/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib] ==> [C:/Files/MinGW/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib] ==> [C:/Files/MinGW/x00_00-w00-mingw00/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..] ==> [C:/Files/MinGW/lib]
+  implicit libs: [mingw00;gcc;moldname;mingwex;pthread;advapi00;shell00;user00;kernel00;iconv;mingw00;gcc;moldname;mingwex]
+  implicit dirs: [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0;C:/Files/MinGW/lib/gcc;C:/Files/MinGW/x00_00-w00-mingw00/lib;C:/Files/MinGW/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_0000c/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_0000c.dir\build.make CMakeFiles/cmTC_0000c.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building C object CMakeFiles/cmTC_0000c.dir/feature_tests.c.obj
+
+C:\Files\MinGW\bin\gcc.exe   -std=c00 -o CMakeFiles\cmTC_0000c.dir\feature_tests.c.obj   -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.c
+
+Linking C executable cmTC_0000c.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0000c.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0000c.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0000c.dir/objects.a @CMakeFiles\cmTC_0000c.dir\objects0.rsp
+C:\Files\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_0000c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0000c.exe -Wl,--out-implib,libcmTC_0000c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0000c.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: C_FEATURE:0c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+
+
+Detecting C [-std=c00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_cd0af/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_cd0af.dir\build.make CMakeFiles/cmTC_cd0af.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building C object CMakeFiles/cmTC_cd0af.dir/feature_tests.c.obj
+
+C:\Files\MinGW\bin\gcc.exe   -std=c00 -o CMakeFiles\cmTC_cd0af.dir\feature_tests.c.obj   -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.c
+
+Linking C executable cmTC_cd0af.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_cd0af.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_cd0af.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_cd0af.dir/objects.a @CMakeFiles\cmTC_cd0af.dir\objects0.rsp
+C:\Files\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_cd0af.dir/objects.a -Wl,--no-whole-archive  -o cmTC_cd0af.exe -Wl,--out-implib,libcmTC_cd0af.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_cd0af.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: C_FEATURE:0c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+
+
+Detecting C [-std=c00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mi0gw00-make.exe cmTC_d0b0d/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_d0b0d.dir\build.make CMakeFiles/cmTC_d0b0d.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building C object CMakeFiles/cmTC_d0b0d.dir/feature_tests.c.obj
+
+C:\Files\MinGW\bin\gcc.exe   -std=c00 -o CMakeFiles\cmTC_d0b0d.dir\feature_tests.c.obj   -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.c
+
+Linking C executable cmTC_d0b0d.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d0b0d.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d0b0d.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_d0b0d.dir/objects.a @CMakeFiles\cmTC_d0b0d.dir\objects0.rsp
+C:\Files\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_d0b0d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d0b0d.exe -Wl,--out-implib,libcmTC_d0b0d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d0b0d.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: C_FEATURE:0c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_000c0/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_000c0.dir\build.make CMakeFiles/cmTC_000c0.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_000c0.dir/testCXXCompiler.cxx.obj
+
+C:\Files\MinGW\bin\g++.exe     -o CMakeFiles\cmTC_000c0.dir\testCXXCompiler.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+
+Linking CXX executable cmTC_000c0.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_000c0.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_000c0.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_000c0.dir/objects.a @CMakeFiles\cmTC_000c0.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_000c0.dir/objects.a -Wl,--no-whole-archive  -o cmTC_000c0.exe -Wl,--out-implib,libcmTC_000c0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_000c0.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_0000a/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_0000a.dir\build.make CMakeFiles/cmTC_0000a.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_0000a.dir/CMakeCXXCompilerABI.cpp.obj
+
+C:\Files\MinGW\bin\g++.exe    -v -o CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCXXCompilerABI.cpp"
+
+Using built-in specs.
+
+COLLECT_GCC=C:\Files\MinGW\bin\g++.exe
+
+Target: x00_00-w00-mingw00
+
+Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib '
+
+Thread model: posix
+
+gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) 
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/cc0plus.exe -quiet -v -iprefix C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/ -D_REENTRANT C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core0 -march=nocona -auxbase-strip CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\yakum\AppData\Local\Temp\cct0YUrz.s
+
+GNU C++00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)
+
+	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP
+
+
+
+GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward"
+0
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include"
+
+ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00C:/msys00/mingw00/lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../include"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed"
+
+ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include"
+
+ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/mingw/include"
+
+#include "..." search starts here:
+
+#include <...> search starts here:
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include
+
+End of search list.
+
+GNU C++00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)
+
+	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP
+
+
+
+GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000
+
+Compiler executable checksum: 0d0b0bf00f00000bc0c0ca00fdffa000
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/as.exe -v -o CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\yakum\AppData\Local\Temp\cct0YUrz.s
+
+GNU assembler version 0.00 (x00_00-w00-mingw00) using BFD version (GNU Binutils) 0.00
+
+COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../libexec/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/
+
+LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../lib/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona'
+
+Linking CXX executable cmTC_0000a.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0000a.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0000a.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0000a.dir/objects.a @CMakeFiles\cmTC_0000a.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_0000a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0000a.exe -Wl,--out-implib,libcmTC_0000a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Using built-in specs.
+
+COLLECT_GCC=C:\Files\MinGW\bin\g++.exe
+
+COLLECT_LTO_WRAPPER=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe
+
+Target: x00_00-w00-mingw00
+
+Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib '
+
+Thread model: posix
+
+gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) 
+
+COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../libexec/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/
+
+LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/;C:/Files/MinGW/bin/../lib/gcc/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/;C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0000a.exe' '-shared-libgcc' '-mtune=core0' '-march=nocona'
+
+ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe -plugin C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll -plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\ccXQTtn0.res -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi00 -plugin-opt=-pass-through=-lshell00 -plugin-opt=-pass-through=-luser00 -plugin-opt=-pass-through=-lkernel00 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 -m i000pep -Bdynamic -o cmTC_0000a.exe C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0 -LC:/Files/MinGW/bin/../lib/gcc -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../.. --whole-archive CMakeFiles\cmTC_0000a.dir/objects.a --no-whole-archive --out-implib libcmTC_0000a.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw00 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi00 -lshell00 -luser00 -lkernel00 -liconv -lmingw00 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o
+
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0000a.exe' '-shared-libgcc' '-mtune=core0' '-march=nocona'
+
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+    add: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include]
+  end of search list found
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+  collapse include dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include] ==> [C:/Files/MinGW/x00_00-w00-mingw00/include]
+  implicit include dirs: [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++;C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00;C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward;C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include;C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed;C:/Files/MinGW/x00_00-w00-mingw00/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect0)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_0000a/fast ]
+  ignore line: [C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_0000a.dir\build.make CMakeFiles/cmTC_0000a.dir/build]
+  ignore line: [mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_0000a.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [C:\Files\MinGW\bin\g++.exe    -v -o CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Files\MinGW\bin\g++.exe]
+  ignore line: [Target: x00_00-w00-mingw00]
+  ignore line: [Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib ']
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona']
+  ignore line: [ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-min0w00/0.0.0/cc0plus.exe -quiet -v -iprefix C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/ -D_REENTRANT C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\share\cmake-0.00\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core0 -march=nocona -auxbase-strip CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\yakum\AppData\Local\Temp\cct0YUrz.s]
+  ignore line: [GNU C++00 (x00_00-posix-sjlj-rev0, Built b0 MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)]
+  ignore line: [	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP]
+  ignore line: []0
+  ignore line: [GGC heuristics: --param ggc-min-expand=000 --pa0am ggc-min-heapsize=000000]
+  ignore line: [ignoring duplic0te directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++"]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00"]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-0ingw00/0.0.0/include/c++/backward"]
+  ignore line: [ignoring duplicate directory "C:0Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include"]
+  ignore line: [ignoring nonexistent directory "C:/mingw000/x00_00-000-0osix-sjlj-rt_v0-rev0/mingw00C:/msys00/mingw00/lib/g0c/x00_00-w00-mingw00/0.0.0/../../.0/../include"]0
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "C:/Files/MinGW/lib/gcc/../../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include"]
+  ignore line: [ignoring nonexistent directory "C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/mingw/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/x00_00-w00-mingw00]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include/c++/backward]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/include-fixed]
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++00 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) version 0.0.0 (x00_00-w00-mingw00)]
+  ignore line: [	compiled by GNU C version 0.0.0, GMP version 0.0.0, MPFR version 0.0.0, MPC version 0.0.0, isl version isl-0.00-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=000 --param ggc-min-heapsize=000000]
+  ignore line: [Compiler executable checksum: 0d0b0bf00f00000bc0c0ca00fdffa000]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona']
+  ignore line: [ C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/as.exe -v -o CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\yakum\AppData\Local\Temp\cct0YUrz.s]
+  ignore line: [GNU assembler version 0.00 (x00_00-w00-mingw00) using BFD version (GNU Binutils) 0.00]
+  ignore line: [COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../libexec/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/]
+  ignore line: [LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0000a.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core0' '-march=nocona']
+  ignore line: [Linking CXX executable cmTC_0000a.exe]
+  ignore line: ["C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0000a.dir\link.txt --verbose=0]
+  ignore line: ["C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0000a.dir/objects.a]
+  ignore line: [C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0000a.dir/objects.a @CMakeFiles\cmTC_0000a.dir\objects0.rsp]
+  ignore line: [C:\Files\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_0000a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0000a.exe -Wl,--out-implib,libcmTC_0000a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Files\MinGW\bin\g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe]
+  ignore line: [Target: x00_00-w00-mingw00]
+  ignore line: [Configured with: ../../../src/gcc-0.0.0/configure --host=x00_00-w00-mingw00 --build=x00_00-w00-mingw00 --target=x00_00-w00-mingw00 --prefix=/mingw00 --with-sysroot=/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win00-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-00=i000 --with-arch-00=nocona --with-tune-00=generic --with-tune-00=core0 --with-libiconv --with-system-zlib --with-gmp=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpfr=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-mpc=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-isl=/c/mingw000/prerequisites/x00_00-w00-mingw00-static --with-pkgversion='x00_00-posix-sjlj-rev0, Built by MinGW-W00 project' --with-bugurl=https://sourceforge.net/projects/mingw-w00 CFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CXXFLAGS='-O0 -pipe -fno-ident -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' CPPFLAGS=' -I/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/include -I/c/mingw000/prerequisites/x00_00-zlib-static/include -I/c/mingw000/prerequisites/x00_00-w00-mingw00-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00/opt/lib -L/c/mingw000/prerequisites/x00_00-zlib-static/lib -L/c/mingw000/prerequisites/x00_00-w00-mingw00-static/lib ']
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 0.0.0 (x00_00-posix-sjlj-rev0, Built by MinGW-W00 project) ]
+  ignore line: [COMPILER_PATH=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../libexec/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/bin/]
+  ignore line: [LIBRARY_PATH=C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/]
+  ignore line: [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0000a.exe' '-shared-libgcc' '-mtune=core0' '-march=nocona']
+  link line: [ C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe -plugin C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll -plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\ccXQTtn0.res -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi00 -plugin-opt=-pass-through=-lshell00 -plugin-opt=-pass-through=-luser00 -plugin-opt=-pass-through=-lkernel00 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw00 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00 -m i000pep -Bdynamic -o cmTC_0000a.exe C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0 -LC:/Files/MinGW/bin/../lib/gcc -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib -LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../.. --whole-archive CMakeFiles\cmTC_0000a.dir/objects.a --no-whole-archive --out-implib libcmTC_0000a.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw00 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi00 -lshell00 -luser00 -lkernel00 -liconv -lmingw00 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o]
+    arg [C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/collect0.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=C:/Files/MinGW/bin/../libexec/gcc/x00_00-w00-mingw00/0.0.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\yakum\AppData\Local\Temp\ccXQTtn0.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingw00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-ladvapi00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lshell00] ==> ignore
+    arg [-plugin-opt=-pass-through=-luser00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lkernel00] ==> ignore
+    arg [-plugin-opt=-pass-through=-liconv] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingw00] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+    arg [--sysroot=C:/mingw000/x00_00-000-posix-sjlj-rt_v0-rev0/mingw00] ==> ignore
+    arg [-m] ==> ignore
+    arg [i000pep] ==> ignore
+    arg [-Bdynamic] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_0000a.exe] ==> ignore
+    arg [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib/crt0.o] ==> ignore
+    arg [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtbegin.o] ==> ignore
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc] ==> dir [C:/Files/MinGW/bin/../lib/gcc]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib]
+    arg [-LC:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..] ==> dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..]
+    arg [--whole-archive] ==> ignore
+    arg [CMakeFiles\cmTC_0000a.dir/objects.a] ==> ignore
+    arg [--no-whole-archive] ==> ignore
+    arg [--out-implib] ==> ignore
+    arg [libcmTC_0000a.dll.a] ==> ignore
+    arg [--major-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [--minor-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lmingw00] ==> lib [mingw00]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ladvapi00] ==> lib [advapi00]
+    arg [-lshell00] ==> lib [shell00]
+    arg [-luser00] ==> lib [user00]
+    arg [-lkernel00] ==> lib [kernel00]
+    arg [-liconv] ==> lib [iconv]
+    arg [-lmingw00] ==> lib [mingw00]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/crtend.o] ==> ignore
+  remove lib [msvcrt]
+  remove lib [msvcrt]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0] ==> [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc] ==> [C:/Files/MinGW/lib/gcc]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib/../lib] ==> [C:/Files/MinGW/x00_00-w00-mingw00/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../lib] ==> [C:/Files/MinGW/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../../../x00_00-w00-mingw00/lib] ==> [C:/Files/MinGW/x00_00-w00-mingw00/lib]
+  collapse library dir [C:/Files/MinGW/bin/../lib/gcc/x00_00-w00-mingw00/0.0.0/../../..] ==> [C:/Files/MinGW/lib]
+  implicit libs: [stdc++;mingw00;gcc_s;gcc;moldname;mingwex;pthread;advapi00;shell00;user00;kernel00;iconv;mingw00;gcc_s;gcc;moldname;mingwex]
+  implicit dirs: [C:/Files/MinGW/lib/gcc/x00_00-w00-mingw00/0.0.0;C:/Files/MinGW/lib/gcc;C:/Files/MinGW/x00_00-w00-mingw00/lib;C:/Files/MinGW/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++0a] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_c0a00/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_c0a00.dir\build.make CMakeFiles/cmTC_c0a00.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity0WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+00
+Building CXX object CMakeFiles/cmTC_c0a00.dir/feature_tests.cxx.obj
+0
+C:\Files\MinGW\bin\g++.exe    -std=c++0a -o CMakeFiles\cmTC_c0a00.dir\feature_tests.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.cxx
+0
+Linking CXX executable cmTC_c0a00.exe0
+0
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win0bin\cmake.exe" -E cmake_link_script 0MakeFiles\cmTC_c0a00.dir\link.txt --verbose=0
+0000
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c0a00.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_c0a00.dir/objects.a @CMakeFiles\cmTC_c0a00.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_c0a00.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c0a00.exe -Wl,--out-implib,libcmTC_c0a00.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c0a00.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [-std=c++00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_b0d00/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_b0d00.dir\build.make CMakeFiles/cmTC_b0d00.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_b0d00.dir/feature_tests.cxx.obj
+
+C:\Files\MinGW\bin\g++.exe    -std=c++00 -o CMakeFiles\cmTC_b0d00.dir\feature_tests.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.cxx
+
+Linking CXX executable cmTC_b0d00.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b0d00.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b0d00.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_b0d00.dir/objects.a @CMakeFiles\cmTC_b0d00.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_b0d00.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b0d00.exe -Wl,--out-implib,libcmTC_b0d00.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b0d00.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization0
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions00
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_va0iable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros0
+    Feature record: CXX_FEATURE00cxx_variadic_templates
+0
+0
+Detecting CXX [-std=c++00] compiler features com0iled with the following output:0
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-de0ug/CMakeFiles/CMakeTmp000
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_b0e00/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_b0e00.dir\build.make CMakeFiles/cmTC_b0e00.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_b0e00.dir/feature_tests.cxx.obj
+
+C:\Files\MinGW\bin\g++.exe    -std=c++00 -o CMakeFiles\cmTC_b0e00.dir\feature_tests.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.cxx
+
+Linking CXX executable cmTC_b0e00.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b0e00.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b0e00.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_b0e00.dir/objects.a @CMakeFiles\cmTC_b0e00.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_b0e00.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b0e00.exe -Wl,--out-implib,libcmTC_b0e00.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b0e00.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [-std=c++00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_dc00e/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_dc00e.dir\build.make CMakeFiles/cmTC_dc00e.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_dc00e.dir/feature_tests.cxx.obj
+
+C:\Files\MinGW\bin\g++.exe    -std=c++00 -o CMakeFiles\cmTC_dc00e.dir\feature_tests.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.cxx
+
+Linking CXX executable cmTC_dc00e.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_dc00e.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_dc00e.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_dc00e.dir/objects.a @CMakeFiles\cmTC_dc00e.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_dc00e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_dc00e.exe -Wl,--out-implib,libcmTC_dc00e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_dc00e.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [-std=c++00] compiler features compiled with the following output:
+Change Dir: C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Files/MinGW/bin/mingw00-make.exe cmTC_d0000/fast 
+C:/Files/MinGW/bin/mingw00-make.exe -f CMakeFiles\cmTC_d0000.dir\build.make CMakeFiles/cmTC_d0000.dir/build
+
+mingw00-make.exe[0]: Entering directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Building CXX object CMakeFiles/cmTC_d0000.dir/feature_tests.cxx.obj
+
+C:\Files\MinGW\bin\g++.exe    -std=c++00 -o CMakeFiles\cmTC_d0000.dir\feature_tests.cxx.obj -c C:\Code\MoblieSecurity\WeChat\crackwechatCPP\cmake-build-debug\CMakeFiles\feature_tests.cxx
+
+Linking CXX executable cmTC_d0000.exe
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d0000.dir\link.txt --verbose=0
+
+"C:\Files\JetBrains\CLion 0000.0\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d0000.dir/objects.a
+C:\Files\MinGW\bin\ar.exe cr CMakeFiles\cmTC_d0000.dir/objects.a @CMakeFiles\cmTC_d0000.dir\objects0.rsp
+C:\Files\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_d0000.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d0000.exe -Wl,--out-implib,libcmTC_d0000.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d0000.dir\linklibs.rsp
+mingw00-make.exe[0]: Leaving directory 'C:/Code/MoblieSecurity/WeChat/crackwechatCPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
